@@ -1,0 +1,1001 @@
+World Rank,National Rank,Name,Image URLs,Affiliation,Country,H-Index,Citations,#DBLP
+1,1,Anil K. Jain,https://s.research.com/images/2a967b4499197336b91a5320a50e13c0f8b608f6-65x65.jpeg,Michigan State University,United States,201,247416,867
+2,1,Yoshua Bengio,https://s.research.com/images/aec914cd458a74e2b4545dd0746dd22e6bc2382c-65x65.jpeg,University of Montreal,Canada,197,637950,715
+3,2,Jiawei Han,https://s.research.com/images/42382fdef4ef0953a4202224c4091830bc68678c-65x65.jpeg,University of Illinois at Urbana-Champaign,United States,184,205519,993
+4,1,Andrew Zisserman,https://s.research.com/images/2a3913cff9795e86373ee05a7e526b7395f76c76-65x65.jpeg,University of Oxford,United Kingdom,175,301948,596
+5,3,Michael I. Jordan,https://s.research.com/images/aa9fe06f07349099dbbc7a87dccf66a90014f20c-65x65.png,University of California,Berkeley,164,201905,612
+6,5,Thomas S. Huang,https://s.research.com/images/ddd0e184e7830de1843f12b4226530c7bd2a5b06-65x65.jpeg,University of Illinois at Urbana-Champaign,United States,163,118676,1068
+7,4,Philip S. Yu,https://s.research.com/images/20815a3765631eb9620ba3a4727f1207b14c0e68-65x65.jpeg,University of Illinois at Chicago,United States,163,127284,1531
+8,6,Takeo Kanade,https://s.research.com/images/6f00a60e4fcd5fbf6818a59783cf9b7b4e1576a5-65x65.gif,Carnegie Mellon University,United States,157,127286,612
+9,1,Rajkumar Buyya,https://s.research.com/images/2994e0b16d912fb948ecd569e9cb13e44187979c-65x65.jpeg,University of Melbourne,Australia,154,117166,845
+10,1,Klaus-Robert Müller,https://s.research.com/images/967468fe98f892a9bc0489b2efcbb2aeaea7fecb-65x65.jpeg,Technical University of Berlin,Germany,151,102859,665
+11,2,Geoffrey E. Hinton,https://s.research.com/images/3a5831dd52ce7c8706f5bc6fb2738d6b72d2f0c2-65x65.png,University of Toronto,Canada,151,608621,327
+12,1,Francisco Herrera,https://s.research.com/images/900c497d066eeefc67149348271940e50a48fc32-65x65.jpeg,University of Granada,Spain,150,98892,833
+13,7,Scott Shenker,https://s.research.com/images/2c9cc7b158648c0fb484ff30e10ade6d6ccdc013-65x65.gif,University of California,Berkeley,149,157984,367
+14,8,Sebastian Thrun,https://s.research.com/images/4d80db997036e941703dd7f9092340d5fa5c6623-65x65.jpeg,Stanford University,United States,146,114187,360
+15,9,Eric Horvitz,https://s.research.com/images/f815cb3d9204c83afd623bb38a483512ddb33d33-65x65.jpeg,Microsoft (United States),United States,145,73100,616
+16,10,Trevor Darrell,https://s.research.com/images/0e56a8e14a6cb525c2140d99f97cd05b853575e4-65x65.jpeg,University of California,Berkeley,144,167950,487
+17,11,Jitendra Malik,https://s.research.com/images/2f09aea5c6b3b5def88ee0c3819fe63951ae3fb6-65x65.jpeg,University of California,Berkeley,143,171887,367
+18,12,Christopher D. Manning,https://s.research.com/images/6bf1bd191eacb6f0cc1a5c48f6f24991c3e00d3b-65x65.jpeg,Stanford University,United States,140,171999,386
+19,13,Ian Foster,https://s.research.com/images/1869fa7947a907e297bab6c5da18d8dd2db330ce-65x65.jpeg,University of Chicago,United States,139,136560,714
+20,14,Ion Stoica,https://s.research.com/images/7d692a71769f773d64ad2dbc09bb5f68309667a6-65x65.jpeg,University of California,Berkeley,139,128049,389
+21,2,Bernhard Schölkopf,https://s.research.com/images/a9a59b6ad9d1f2303aef3da2ee9df65f7c1c3b15-65x65.jpeg,Max Planck Institute for Intelligent Systems,Germany,137,151308,630
+22,2,Dacheng Tao,https://s.research.com/images/72330d26d0dcc91579ea36cf44d4e93f0e4383c6-65x65.jpeg,University of Sydney,Australia,137,66473,1022
+23,15,Hector Garcia-Molina,https://s.research.com/images/3b94736f0a39f53e0bf755ebe9f2a51d555a88ed-65x65.jpeg,Stanford University,United States,137,84521,498
+24,16,Christos Faloutsos,https://s.research.com/images/cd89b7cdff21ee23a945037fdd48b465e3d1c892-65x65.jpeg,Carnegie Mellon University,United States,136,86818,659
+25,1,Luc Van Gool,https://s.research.com/images/5b783cfe660c94b8b39cf9d47ff4451f54844439-65x65.jpeg,ETH Zurich,Switzerland,134,131440,954
+26,1,Xiaoou Tang,https://s.research.com/images/b9f11b569da0dde56ed75635ad3d9bad9a8cca28-65x65.jpeg,Chinese University of Hong Kong,China,134,112615,450
+27,17,Leonidas J. Guibas,https://s.research.com/images/094d0678ee1b9500cf87999422a9419688ddf1e3-65x65.png,Stanford University,United States,132,83484,486
+28,1,Cordelia Schmid,https://s.research.com/images/376a35467ca3339dc6095c7493cd08f356ac5b14-65x65.gif,French Institute for Research in Computer Science and Automation - INRIA,France,132,125734,335
+29,18,Jay S. Walker,https://s.research.com/images/f96724542064c4d8b35920390a041e9d23025bd2-65x65.jpeg,Walker Digital (United States),United States,130,55868,276
+30,19,Jack Dongarra,https://s.research.com/images/4fada8055591a36d58ea443b711a9a7672f0d4bd-65x65.png,University of Tennessee at Knoxville,United States,129,80868,1072
+31,2,Lei Zhang,https://s.research.com/images/d7de280f6796c9634ee15e4eb2b1dde20c480452-65x65.jpeg,Hong Kong Polytechnic University,China,128,77250,784
+32,20,Alex Pentland,https://s.research.com/images/e15f53d6c0050c85b4a7ece8c8abbad1db421331-65x65.jpeg,MIT,United States,128,115837,515
+33,3,Bernt Schiele,https://s.research.com/images/41c1d9d732c58c3e5bac2edb9a5026e7ddea6cbf-65x65.jpeg,Max Planck Institute for Informatics,Germany,128,70339,397
+34,3,Xiaogang Wang,https://s.research.com/images/56632c0c50be32e6c17523925403790b31aaae6f-65x65.jpeg,Chinese University of Hong Kong,China,127,72644,323
+35,21,Ming-Hsuan Yang,https://s.research.com/images/a27dc5756edc8afd801ec289fdac3caa3a45560c-65x65.jpeg,University of California,Merced,126,86679,459
+36,4,Hong-Jiang Zhang,https://s.research.com/images/86cd0138a90d04ce6f51eda7a6ed1d9441234abc-65x65.jpeg,ByteDance,China,126,62458,422
+37,22,Don Towsley,https://s.research.com/images/e655608a69856b2319c27a1124f67b4be0ebec11-65x65.jpeg,University of Massachusetts Amherst,United States,125,64965,646
+38,23,Rama Chellappa,https://s.research.com/images/8cb953a3db2085f54f8a47aef418684976790b6c-65x65.jpeg,Johns Hopkins University,United States,125,71317,825
+39,24,Dawn Song,https://s.research.com/images/1fcccf5408e4997ddcbaa608c651be67d1c3d4eb-65x65.jpeg,University of California,Berkeley,125,74240,348
+40,1,Shuicheng Yan,https://s.research.com/images/fe2b011dcfed8f46b631aed9fba7916dd2e88245-65x65.jpeg,National University of Singapore,Singapore,123,70267,662
+41,25,Deborah Estrin,https://s.research.com/images/c003430f792bccdbeff1ca07e1138adc0abc4e39-65x65.jpeg,Cornell University,United States,122,121255,419
+42,26,David E. Culler,https://s.research.com/images/535d3909dbd6b100c9e5f97e579b1f5ea227a30e-65x65.jpeg,University of California,Berkeley,122,104650,334
+43,27,Richard Szeliski,https://s.research.com/images/eea998d7614c544524756cb6e3e7b630e2a77a59-65x65.png,University of Washington,United States,122,92694,286
+44,28,Shih-Fu Chang,https://s.research.com/images/6cb1e330a8f5553261feb3ee1959c8b801b9a232-65x65.jpeg,Columbia University,United States,121,56262,601
+45,29,Dan Boneh,https://s.research.com/images/ee88b4be7f20a9d815256106bd5457c460306456-65x65.jpeg,Stanford University,United States,121,93383,282
+46,30,Shree K. Nayar,https://s.research.com/images/76cadb621cb16db7663007d6876208972272d9ec-65x65.jpeg,Columbia University,United States,121,56125,311
+47,5,David Zhang,https://s.research.com/images/cf1fc77f0cf052d10681d17b8685488a3bc1ebbd-65x65.jpeg,Chinese University of Hong Kong,Shenzhen,121,65837,749
+48,31,Mario Gerla,https://s.research.com/images/a8c2acaedf884b5e023a3a4889491cab3e2753ac-65x65.jpeg,University of California,Los Angeles,121,70588,875
+49,32,Hari Balakrishnan,https://s.research.com/images/06ffc7e8aa355f4768b82dee15a106e4e855264e-65x65.jpeg,MIT,United States,121,143423,258
+50,33,Tomaso Poggio,https://s.research.com/images/089e61e0eb38f5d872a9026cd432d50d942da718-65x65.jpeg,MIT,United States,120,89939,403
+51,34,William T. Freeman,https://s.research.com/images/326317bdf18dc7d542cd868359a49dfccfb0e6d0-65x65.jpeg,MIT,United States,120,82219,316
+52,4,Wil M. P. van der Aalst,https://s.research.com/images/fe632259056863c6fa380c782501f67bd4a145a7-65x65.jpeg,RWTH Aachen University,Germany,119,64591,567
+53,6,Qiang Yang,https://s.research.com/images/6856b85aba961817f0eece572a5e7feb8c189c00-65x65.jpeg,Hong Kong University of Science and Technology,China,119,79998,741
+54,35,John A. Stankovic,https://s.research.com/images/1590827f1bb021b0265afa90333c39ce27468d7e-65x65.jpeg,University of Virginia,United States,119,62351,444
+55,36,Pieter Abbeel,https://s.research.com/images/c38e4529bb7e8f2b643521fa50cbcf72c99705a4-65x65.png,University of California,Berkeley,118,63202,326
+56,37,Huan Liu,https://s.research.com/images/4026325414f2d277a2fea29493953049cc3a5793-65x65.jpeg,Arizona State University,United States,118,69883,566
+57,38,Mubarak Shah,https://s.research.com/images/28796efa4d47a629dd516fca58a6a2d6a9cef8ae-65x65.jpeg,University of Central Florida,United States,118,68197,487
+58,3,Witold Pedrycz,https://s.research.com/images/8f26754a6e28c7d64ac0734a09fddc5e4185a076-65x65.jpeg,University of Alberta,Canada,117,68295,1584
+59,39,Ben Shneiderman,https://s.research.com/images/3b6d2242c89dcf449d721510bcee3f2c40f8e766-65x65.jpeg,University of Maryland,College Park,117,89709,524
+60,5,Wolfram Burgard,https://s.research.com/images/2a1bc099402e595a15a1067ac9a1634774d7db43-65x65.jpeg,University of Freiburg,Germany,117,71834,539
+61,40,Andrew Y. Ng,https://s.research.com/images/655f85eed1748af3047cf38b888d8ed115f32763-65x65.jpeg,Stanford University,United States,116,161764,241
+62,7,Dinggang Shen,https://s.research.com/images/ef97d4d3301452c25b5d121e6a1bf7b131f94952-65x65.jpeg,ShanghaiTech University,China,116,52645,1140
+63,1,Athanasios V. Vasilakos,https://s.research.com/images/2a6ad9cd2162fb88c5145e0074ad7b2310aab3e3-65x65.jpeg,Luleå University of Technology,Sweden,116,43307,533
+64,41,Sergey Levine,https://s.research.com/images/8cdcafd81b87b9dac22501a46cab3fc92c7ad06f-65x65.png,University of California,Berkeley,116,59392,375
+65,42,Randy H. Katz,https://s.research.com/images/e79b04674c41d6969112e272a5c13d777d11612b-65x65.jpeg,University of California,Berkeley,116,82451,355
+66,4,Gilbert Laporte,https://s.research.com/images/1dcedca4a33bcd95e0e99342ef0a935354784c06-65x65.jpeg,HEC Montréal,Canada,115,58502,411
+67,43,Georgios B. Giannakis,https://s.research.com/images/fb46443c7e68bdf4b968b19cae6356b6e8aae726-65x65.jpeg,University of Minnesota,United States,115,53057,757
+68,6,Hans-Peter Seidel,https://s.research.com/images/601791e226ded01acf88064bd14ef9366c485706-65x65.jpeg,Max Planck Institute for Informatics,Germany,115,46765,766
+69,1,Noga Alon,https://s.research.com/images/900680ff8ea06389d1fc996bf3d5e59fcac1119e-65x65.jpeg,Tel Aviv University,Israel,115,52521,665
+70,44,Antonio Torralba,https://s.research.com/images/f095ecfaca3d8a3c4c214239c85cbcdf45b3f6d2-65x65.jpeg,MIT,United States,115,81259,274
+71,8,Yi Yang,https://s.research.com/images/5bf4c1757f0dc3c46224273f101644bc387488f5-65x65.jpeg,Zhejiang University,China,114,49821,591
+72,2,U. Rajendra Acharya,https://s.research.com/images/6d65bc5dc3cf66dc869417454a074bd235b100c6-65x65.jpeg,Ngee Ann Polytechnic,Singapore,114,49797,698
+73,5,Xuemin Shen,https://s.research.com/images/9147c02e3d2f052d8b0a2c15d8a0400ed15c7003-65x65.jpeg,University of Waterloo,Canada,114,48891,921
+74,45,Li Fei-Fei,https://s.research.com/images/9d69f430e92b98f2ddda10d21532406c0201079f-65x65.jpeg,Stanford University,United States,114,150174,288
+75,9,Xuelong Li,https://s.research.com/images/fd4a5d63090351649c0c4cf59a4294839fcc0b6a-65x65.jpeg,Northwestern Polytechnical University,China,114,47897,843
+76,46,Yann LeCun,https://s.research.com/images/5c0738834ea07cf4112873ab32cb3501c4ac0af6-65x65.jpeg,Facebook (United States),United States,113,245103,264
+77,2,Martin Vetterli,https://s.research.com/images/640eab9748ff1afbd28cc392855691856029d773-65x65.jpeg,École Polytechnique Fédérale de Lausanne,Switzerland,112,73251,556
+78,47,Alan L. Yuille,https://s.research.com/images/2b128f77d826f6ea7f9353d7fa152ec2004d8e0b-65x65.jpeg,Johns Hopkins University,United States,111,71897,507
+79,48,Dieter Fox,https://s.research.com/images/414ccd6f6fbe42e25c939c387cb6363c0652b8fd-65x65.jpeg,University of Washington,United States,111,58948,245
+80,49,Robert E. Tarjan,https://s.research.com/images/52a43795151783e5c00546845a564102d1995c17-65x65.png,Princeton University,United States,111,83477,317
+81,50,Amit P. Sheth,https://s.research.com/images/ab8f667fd461311ab8872438a192d34800e5dd78-65x65.jpeg,University of South Carolina,United States,111,47049,581
+82,51,Sushil Jajodia,https://s.research.com/images/a4d52abb84d9ea73af352476e37aa0b442c00c1e-65x65.jpeg,George Mason University,United States,111,45475,576
+83,52,Charu C. Aggarwal,https://s.research.com/images/e9ca03f0158a96c6f6a21dce3dc36b0838d9eff4-65x65.png,IBM (United States),United States,111,61577,511
+84,53,Larry S. Davis,https://s.research.com/images/288ef6347d1f4c86c68ceead4c2c4d7b97d92dd3-65x65.jpeg,University of Maryland,College Park,111,61610,566
+85,54,Daphne Koller,https://s.research.com/images/f4c949ab56621082c4ca2bce64ccb3afdbfe6d68-65x65.jpeg,Stanford University,United States,110,52127,226
+86,55,Ian F. Akyildiz,https://s.research.com/images/7191b523b8868133e38ff3b5508eb92637c3fa9a-65x65.jpeg,Truva,Inc,110,87190,420
+87,56,Alexander J. Smola,https://s.research.com/images/f80a8f23b913b08c81900a781197d09dfdf01357-65x65.jpeg,Amazon (United States),United States,110,121042,290
+88,57,Ronald R. Yager,https://s.research.com/images/5a14639eddfac1b5e08405ea0463919609392134-65x65.jpeg,Iona College,United States,110,60520,620
+89,58,MengChu Zhou,https://s.research.com/images/1a8a222e0f7a9771dd6fc8120e4125729dec0fa5-65x65.jpeg,New Jersey Institute of Technology,United States,110,40263,866
+90,59,Heung-Yeung Shum,https://s.research.com/images/c90221bc766498f0b93cdd1283e94b7c784d4a0d-65x65.jpeg,Microsoft (United States),United States,110,51348,370
+91,60,Jennifer Rexford,https://s.research.com/images/2306f1613664e0da2d6e8c1a9e8ed130350f31ca-65x65.jpeg,Princeton University,United States,110,57554,325
+92,10,Zhi-Hua Zhou,https://s.research.com/images/135fd024216cbc9ba13b9dce6db19bb84b0525f4-65x65.jpeg,Nanjing University,China,110,63021,445
+93,61,Vince D. Calhoun,https://s.research.com/images/840e3d556e332511e61d30a18159383e50e6bf5f-65x65.jpeg,Georgia State University,United States,109,44032,695
+94,62,Christos H. Papadimitriou,https://s.research.com/images/16e9bdfee66feaee1b9ca74c0e94d63e4eeed3b7-65x65.jpeg,Columbia University,United States,109,67292,280
+95,64,Martial Hebert,https://s.research.com/images/cb7715f36b53d3dcef489e318d31ae79fce6f533-65x65.jpeg,Carnegie Mellon University,United States,109,48352,408
+96,63,Andrew McCallum,https://s.research.com/images/3012a4308c56231e37d3b1757d3cdcb7ff6b87b3-65x65.jpeg,University of Massachusetts Amherst,United States,109,83350,341
+97,11,Wei-Ying Ma,https://s.research.com/images/6ec8f794beabaf5d3e65c77774c90f9169e768e2-65x65.jpeg,Tsinghua University,China,109,51974,412
+98,65,Stephen Grossberg,https://s.research.com/images/16b29e222a1d1fa62a8e456845c34ecde6ce81da-65x65.jpeg,Boston University,United States,108,62743,324
+99,2,Nicholas R. Jennings,https://s.research.com/images/3ac5b504ec1dd4d0c592d8affa4d9a2de01ff4db-65x65.jpeg,Loughborough University,United Kingdom,108,61361,458
+100,66,Susan T. Dumais,https://s.research.com/images/9007add305e79cb56958386d14044ea614b529e7-65x65.jpeg,Microsoft (United States),United States,108,79245,303
+101,67,Ron Kikinis,https://s.research.com/images/f6518844f8a845f7088f3f611e10c15fe8a6ac7a-65x65.jpeg,Brigham and Women's Hospital,United States,107,47039,415
+102,12,Zeshui Xu,https://s.research.com/images/6857fc4420cc49fcf4174731a36ffe4930bd38de-65x65.jpeg,Sichuan University,China,107,42711,447
+103,68,Kalyanmoy Deb,https://s.research.com/images/7d19bc2723c1d70b206331f9ce6557b5eb84165d-65x65.jpeg,Michigan State University,United States,107,161800,512
+104,13,Xin Yao,https://s.research.com/images/2f6b369a7f558a1265ba474079c332b4adb83c42-65x65.jpeg,Southern University of Science and Technology,China,107,52505,614
+105,3,Zoubin Ghahramani,https://s.research.com/images/3692f85465d385b7c66ee472ff9a5f0938184e29-65x65.jpeg,University of Cambridge,United Kingdom,107,60829,313
+106,69,Kang G. Shin,https://s.research.com/images/1e4e96e02f04b3abb9243981c770e353fd1fed23-65x65.jpeg,University of Michigan–Ann Arbor,United States,107,43966,696
+107,7,Michael J. Black,https://s.research.com/images/3a2809c4a7d28d84b82a129db7dda30109d2db92-65x65.jpeg,Max Planck Institute for Intelligent Systems,Germany,107,53004,293
+108,4,Philip H. S. Torr,https://s.research.com/images/765214fbd228fe01143aec7471d96a4bb63ca0ab-65x65.jpeg,University of Oxford,United Kingdom,107,57909,403
+109,8,Hermann Ney,https://s.research.com/images/db0492f413e9675832397d349998de80ec2daff9-65x65.jpeg,RWTH Aachen University,Germany,106,54638,823
+110,1,Luca Benini,https://s.research.com/images/cf161bed6e9648e1f835d2b327cb86e14acfdea7-65x65.jpeg,University of Bologna,Italy,105,45311,991
+111,1,Andrzej Cichocki,https://s.research.com/images/8bbeb511c986bb3433fdeccf7e633fc5709026f1-65x65.jpeg,Skolkovo Institute of Science and Technology,Russia,105,46251,705
+112,70,Jeffrey D. Ullman,https://s.research.com/images/62651f03c35b7e813461af01eefce3b864288736-65x65.jpeg,Stanford University,United States,105,120919,283
+113,14,Jian Sun,https://s.research.com/images/8a4b6f58d70844e0c4629f30f81ca4cb29cbdcdf-65x65.jpeg,Xi'an Jiaotong University,China,105,237748,264
+114,71,Mihir Bellare,https://s.research.com/images/febaecb33b81fc6b6a368cc8bcd0004089e3bbf2-65x65.jpeg,University of California,San Diego,105,63606,212
+115,15,Tieniu Tan,https://s.research.com/images/deb67468f52f8cd9143d5f1c76148469ef374456-65x65.jpeg,Chinese Academy of Sciences,China,105,47585,607
+116,72,Alan C. Bovik,https://s.research.com/images/b6ac1e156abdb1a53f6f57eb3e9d5105a1c3076a-65x65.jpeg,The University of Texas at Austin,United States,105,115460,673
+117,3,Marc Pollefeys,https://s.research.com/images/7a80ae05fbf7dda45b3a002256d04b84321e6f7b-65x65.jpeg,ETH Zurich,Switzerland,105,40623,503
+118,73,Jie Wu,https://s.research.com/images/95990a33b0ab907208f336d76f7e5e41f9fc1862-65x65.jpeg,Temple University,United States,104,46514,934
+119,74,Zhu Han,https://s.research.com/images/f5cb08df012da76ec267be0256bb3b94ef508390-65x65.jpeg,University of Houston,United States,104,43550,914
+120,1,Thomas A. Henzinger,https://s.research.com/images/2f5eca6562e3fea5b758202fc81ad2d70e3ef103-65x65.jpeg,Institute of Science and Technology Austria,Austria,104,59374,364
+121,16,Bing Liu,https://s.research.com/images/da2474ac2e9c41097a9a2bcfe7eb156922a4ca71-65x65.jpeg,Peking University,China,104,68137,326
+122,17,Stan Z. Li,https://s.research.com/images/0b0bd9decace2afedf33ece4cd7023735c94149b-65x65.jpeg,Chinese Academy of Sciences,China,104,51820,441
+123,76,Elisa Bertino,https://s.research.com/images/3d55a9e81fb53fcb56f3e9f8fae2d8dec9ec1751-65x65.jpeg,Purdue University West Lafayette,United States,104,43031,926
+124,75,W. Bruce Croft,https://s.research.com/images/57645e10bd5290a602e92be66d9159553d3a5b13-65x65.jpeg,University of Massachusetts Amherst,United States,104,49624,356
+125,77,Jure Leskovec,https://s.research.com/images/cde314d781a13f8dc85daf7412b4f4a7b2147cda-65x65.jpeg,Stanford University,United States,103,87662,270
+126,9,Daniel Rueckert,https://s.research.com/images/4e594a99fdcd97198755293f8f425794c3f55b3d-65x65.jpeg,Technical University of Munich,Germany,103,56288,626
+127,78,Alberto Sangiovanni-Vincentelli,https://s.research.com/images/d1e00a8dcf9de8078697a15be204028a2896ff77-65x65.jpeg,University of California,Berkeley,103,47485,609
+128,79,Moshe Y. Vardi,https://s.research.com/images/941a4eb01db0788faebe1aec8d2eb66f9dcc1d32-65x65.jpeg,Rice University,United States,103,47531,464
+129,80,David A. Patterson,https://s.research.com/images/14c141e0ad858e8fa5cf031ffc277833258d1a57-65x65.jpeg,University of California,Berkeley,103,102383,349
+130,4,Pascal Fua,https://s.research.com/images/b4787d1a0e30ce9a17ed8c9eb23a1051697fc203-65x65.jpeg,École Polytechnique Fédérale de Lausanne,Switzerland,103,56145,468
+131,81,Jennifer Widom,https://s.research.com/images/7e0872fc72b22d6a5dfc2c306e4fa70104dd540c-65x65.jpeg,Stanford University,United States,103,60665,227
+132,18,Liangpei Zhang,https://s.research.com/images/ea7a67204234056c3c247d7482b507a54a381f67-65x65.jpeg,Wuhan University,China,103,37348,628
+133,1,Marco Dorigo,https://s.research.com/images/7c9e5565640fb89a9dc07165998bbd73c7f278ad-65x65.jpeg,Université Libre de Bruxelles,Belgium,102,130488,408
+134,82,Mani Srivastava,https://s.research.com/images/09002dff54e433dd2913f24d886b34227a3998ef-65x65.jpeg,University of California,Los Angeles,102,52082,421
+135,83,Bernd Girod,https://s.research.com/images/1ad7d89c36d3efc473411a5db6a62aa62d55487b-65x65.jpeg,Stanford University,United States,102,38994,530
+136,2,Didier Dubois,https://s.research.com/images/624c73ccd8e178dc63a1b4bfd06b3f15b01d70b0-65x65.jpeg,Centre national de la recherche scientifique,CNRS,101,57201,443
+137,84,Richard G. Baraniuk,https://s.research.com/images/5319fb0d44410c5ae0df9e1f1b1f2ff717d124ab-65x65.jpeg,Rice University,United States,101,59007,490
+138,5,Michael Unser,https://s.research.com/images/b72a02b38a10b2a7c26c938b0cca693d0da78b5f-65x65.jpeg,École Polytechnique Fédérale de Lausanne,Switzerland,100,51345,597
+139,6,Onur Mutlu,https://s.research.com/images/51f0c55e148b4b7e7dbe0a342dc93c3eed82b451-65x65.jpeg,ETH Zurich,Switzerland,100,33935,394
+140,85,Jason Weston,https://s.research.com/images/435a4f74f7d8bf83330a8fb29821b947449b692e-65x65.jpeg,Facebook (United States),United States,100,87579,237
+141,86,Vern Paxson,https://s.research.com/images/8870be09e9970f3de04641da4131a96309d8cd5c-65x65.jpeg,University of California,Berkeley,100,68822,227
+142,87,Lixia Zhang,https://s.research.com/images/0fe1d0b8d00388754cddedae0a2dde96514d87d6-65x65.png,University of California,Los Angeles,100,71145,312
+143,3,Henri Prade,https://s.research.com/images/6b6616deb7895c053e0d563fa15610878f21a793-65x65.png,Paul Sabatier University,France,99,60073,601
+144,88,David E. Goldberg,https://s.research.com/images/b88cb579d3df346f3709774b80171ea1e42d402b-48x48.jpeg,Big Beacon,United States,99,280036,335
+145,7,Roland Siegwart,https://s.research.com/images/cafca6937b809c53184087514b6e2864affe8483-65x65.jpeg,ETH Zurich,Switzerland,99,47228,639
+146,4,Nicholas Ayache,https://s.research.com/images/7e334dd9d4f321a075ba19f38ce1223ef57e8e25-65x65.jpeg,French Institute for Research in Computer Science and Automation - INRIA,France,99,41517,410
+147,8,Jürgen Schmidhuber,https://s.research.com/images/96e4b43d2ee095eb092bd99d028336c306774054-65x65.jpeg,Dalle Molle Institute for Artificial Intelligence Research,Switzerland,99,150352,395
+148,89,Michael J. Franklin,https://s.research.com/images/6322c6cc5e4fd242d2fe5b53fd81d65a75ad69e8-65x65.jpeg,University of Chicago,United States,99,65446,280
+149,19,Wen Gao,https://s.research.com/images/022a2833aee75863bf001c6199b2e56e1e73c3af-65x65.jpeg,Peking University,China,99,38575,1119
+150,90,Samuel Madden,https://s.research.com/images/b58f0c96dc047c208a482820f83682365d420038-65x65.jpeg,MIT,United States,99,59412,297
+151,91,Jon Kleinberg,https://s.research.com/images/f4011086feee261c6bf976671858aa2309c28f66-65x65.jpeg,Cornell University,United States,98,103639,228
+152,92,Hojjat Adeli,https://s.research.com/images/a7c5d70eb284bcc634e1952540f805794b1d6cac-65x65.jpeg,The Ohio State University,United States,98,28854,322
+153,1,Max A. Viergever,https://s.research.com/images/81dd4fc7a6692453d4270f9f6bd474de2cf78393-65x65.jpeg,Utrecht University,Netherlands,98,52957,431
+154,94,Guillermo Sapiro,https://s.research.com/images/554c13ec83de1de520620fd3c5cc0244af34f720-65x65.jpeg,Duke University,United States,98,68003,446
+155,93,Pietro Perona,https://s.research.com/images/5fa39f35eb304be36a03617dcfa6d9686690cd17-65x65.jpeg,California Institute of Technology,United States,98,109097,314
+156,95,Kishor S. Trivedi,https://s.research.com/images/3a31d1ccc32c0b7b76abe7dee4d399cf0afb14a5-65x65.jpeg,Duke University,United States,98,38297,498
+157,2,Micha Sharir,https://s.research.com/images/1210732e6a58ea6d7a2a01c081455e7e0b5b6847-65x65.jpeg,Tel Aviv University,Israel,98,36277,488
+158,96,Imran Chaudhri,https://s.research.com/images/3ef38d4f8338066d4791bd4044bca0e35a7c5f35-65x65.jpeg,Apple (United States),United States,98,42373,206
+159,20,Michael R. Lyu,https://s.research.com/images/107e578f1e6d72b69221353f285376607eb79c51-65x65.jpeg,Chinese University of Hong Kong,China,98,36065,547
+160,99,Michael Stonebraker,https://s.research.com/images/efbbeafe5b25c79e92d64f932ddb97efc59089ff-65x65.gif,MIT,United States,98,48963,333
+161,98,Tim Finin,https://s.research.com/images/49745edf0a51c611c5075ccf5b94ba7c65693f56-65x65.jpeg,University of Maryland,Baltimore County,98,45357,449
+162,97,Li Deng,https://s.research.com/images/b0ca6d67e9dc74eaa0cedca734cc959eda345b1d-65x65.jpeg,Citadel,United States,98,63139,494
+163,5,Zidong Wang,https://s.research.com/images/58bbd9d83bb85b8f54ba35d0fe80c27bec77ee68-65x65.jpeg,Brunel University London,United Kingdom,97,28651,434
+164,6,Andrew Blake,https://s.research.com/images/caae701cdde1ad30f6ff11a3dc491648f66af708-65x65.jpeg,The Alan Turing Institute,United Kingdom,97,74514,223
+165,2,Enrique Herrera-Viedma,https://s.research.com/images/b3727636df792f7ff00a777fcd751b1d402b5e15-65x65.jpeg,University of Granada,Spain,97,35422,462
+166,100,Vipin Kumar,https://s.research.com/images/11601ff87b746251156c9859e25be5d18ac063a7-65x65.png,University of Minnesota,United States,97,73268,383
+167,3,Amir Pnueli,https://s.research.com/images/e1c28d7c5f549bac9f0a0bbd09dbbeec3c934fce-65x65.jpeg,Weizmann Institute of Science,Israel,97,52038,270
+168,6,Victor C. M. Leung,https://s.research.com/images/930b3ecce5845e558afae40ca988a09fed35c540-65x65.jpeg,Shenzhen University,China,97,37298,1139
+169,101,Hsinchun Chen,https://s.research.com/images/a569b4f5bd93754fb14c2d5fb3566383f9f0251c-65x65.jpeg,University of Arizona,United States,97,42021,575
+170,7,Steffen Staab,https://s.research.com/images/d85dc77b4c5e315a2fe72e28f4de16da4edcef79-65x65.jpeg,University of Southampton,United Kingdom,97,37418,415
+171,102,Srinivas Devadas,https://s.research.com/images/53cc044c7884dedc7aa341c3f2efb39ab9f28acc-65x65.jpeg,MIT,United States,97,35634,350
+172,7,Raquel Urtasun,https://s.research.com/images/0a4e7aa481b4ace0fe4805d83aa232a023032836-65x65.jpeg,University of Toronto,Canada,97,45522,287
+173,10,Hans-Peter Kriegel,https://s.research.com/images/fc2d01a3dccd2457fe291b5b5c91bcce8bf10dc6-65x65.jpeg,Ludwig-Maximilians-Universität München,Germany,97,83267,373
+174,8,Shaogang Gong,https://s.research.com/images/11ef632eb06f8915a5373d5129e1f0384daac388-65x65.jpeg,Queen Mary University of London,United Kingdom,97,34309,345
+175,21,Qi Tian,https://s.research.com/images/01d703c0b6d08f8b70947099ff2c1a491e42c246-65x65.jpeg,Huawei Technologies (China),China,97,40843,830
+176,103,Christopher Kruegel,https://s.research.com/images/23a594407815a08077a2a105cb1212340a65d6c1-65x65.png,University of California,Santa Barbara,97,35684,234
+177,104,Daniela Rus,https://s.research.com/images/b449e5ef74591eabe7e26acb4fe76b7beb508537-65x65.jpeg,MIT,United States,96,34230,482
+178,105,Azriel Rosenfeld,https://s.research.com/images/d9e03b80a8fbfbc7e26efede61abef796274542f-65x65.jpeg,University of Maryland,College Park,96,59502,470
+179,11,Daniel Cremers,https://s.research.com/images/71716df0af034978ae4b3e8e75ff2c1356561c13-65x65.jpeg,Technical University of Munich,Germany,96,44383,447
+180,106,Ruslan Salakhutdinov,https://s.research.com/images/30f762f92e305fe92f44d1ea278715e33796c22a-65x65.jpeg,Carnegie Mellon University,United States,96,122782,252
+181,4,Daniel Cohen-Or,https://s.research.com/images/1b2f88db8af1d7dac2d0f0152047fbaa721b1b7e-65x65.jpeg,Tel Aviv University,Israel,96,35677,323
+182,107,Biswanath Mukherjee,https://s.research.com/images/98706ef0acde57e6cec1a519e52b05e5fadd8156-65x65.jpeg,University of California,Davis,96,52209,600
+183,108,Sajal K. Das,https://s.research.com/images/1083598274b107c5adbb499852b069cedab33387-65x65.jpeg,Missouri University of Science and Technology,United States,96,33160,840
+184,9,Adrian Perrig,https://s.research.com/images/1951dd4d9c9534a6b38e7eb2c76f01e2cfb53668-65x65.jpeg,ETH Zurich,Switzerland,96,75960,306
+185,110,Ramesh Govindan,https://s.research.com/images/490e90a139b818d4feb60915aa5ca32d186a4641-65x65.jpeg,University of Southern California,United States,96,57963,280
+186,111,Lorrie Faith Cranor,https://s.research.com/images/367f623f7e86be5c398842f909d0a7fbdd74cea0-65x65.jpeg,Carnegie Mellon University,United States,96,33360,266
+187,112,Joseph M. Hellerstein,https://s.research.com/images/8cd4dd757f930a6383dd4dfae094f60615ab6523-65x65.jpeg,University of California,Berkeley,96,48603,260
+188,109,Eamonn Keogh,https://s.research.com/images/26c7bb605bac97c2d5b9de54a988ff7e83a1820c-65x65.jpeg,University of California,Riverside,96,50909,269
+189,113,Shankar Sastry,https://s.research.com/images/e46558f72304af007e78e601296eb9577c21f7ff-65x65.gif,University of California,Berkeley,95,50160,370
+190,114,H. Vincent Poor,https://s.research.com/images/b6b090da0867a494f2abe71365f7237077cbd986-65x65.jpeg,Princeton University,United States,95,49633,1037
+191,115,Richard M. Karp,https://s.research.com/images/f3b6014ae5145fcb81be62879cae19f45049dc34-65x65.png,University of California,Berkeley,95,83964,202
+192,10,Markus Gross,https://s.research.com/images/71a34d74bc842926912f9d0823e03c312ff8dc06-65x65.jpeg,ETH Zurich,Switzerland,95,35302,466
+193,116,Thomas Anderson,https://s.research.com/images/9070d5d6b42c82b9c9bd368f4719a2d642a4d340-65x65.png,University of Washington,United States,95,58208,215
+194,117,Eric P. Xing,https://s.research.com/images/c11eba4ce1ff83b0cd53c8d881c004726127d68f-65x65.png,Carnegie Mellon University,United States,95,36995,449
+195,119,Bahram Javidi,https://s.research.com/images/588c6ac4158a2eeb63b0dfc7d3cf4fd5a59e6182-65x65.jpeg,University of Connecticut,United States,95,31599,580
+196,118,Edmund M. Clarke,https://s.research.com/images/66eddccbf321f011fff7e2a61cde2775fefa2a8e-65x65.jpeg,Carnegie Mellon University,United States,95,85668,301
+197,5,Moni Naor,https://s.research.com/images/73cc094cd7bd92ecec3d800f2083f99fe7352559-65x65.jpeg,Weizmann Institute of Science,Israel,95,57890,197
+198,120,Serge Belongie,https://s.research.com/images/ebdecb228a4a8daabe3787f8324cf07a127ce8d9-65x65.jpeg,Cornell University,United States,95,93221,242
+199,122,Surajit Chaudhuri,https://s.research.com/images/623951713ab14437a623cb68a9b752e15983ff0b-65x65.jpeg,Microsoft (United States),United States,95,36165,323
+200,121,Nick McKeown,https://s.research.com/images/08a1f525c86455bde9a4c5568f6378570de15c89-65x65.jpeg,Stanford University,United States,95,56791,203
+201,3,Tat-Seng Chua,https://s.research.com/images/80dbb6c838fd93d82f6b45e423fc595a8171ed4b-65x65.jpeg,National University of Singapore,Singapore,95,37301,568
+202,123,Amin Vahdat,https://s.research.com/images/0a76ac9a71284c0a9b8dcdc3042c5ee2fae04374-65x65.jpeg,Google (United States),United States,95,47946,284
+203,12,Gerhard Weikum,https://s.research.com/images/9d38c8e4c57390c01ad27d4e175f781fc90ad3b3-65x65.jpeg,Max Planck Institute for Informatics,Germany,95,37584,577
+204,124,Dan Jurafsky,https://s.research.com/images/428aebcd00e243b6f430334f187f38df592b96d4-65x65.jpeg,Stanford University,United States,94,45785,239
+205,1,László Lovász,https://s.research.com/images/e83ba942a4cccf79713ad327f2c543d8afc0d74f-65x65.jpeg,Eötvös Loránd University,Hungary,94,47832,257
+206,125,Dinesh Manocha,https://s.research.com/images/dbcec591e83b0439dd0760b63ab80d25b7b6ad25-65x65.jpeg,University of Maryland,College Park,94,35805,570
+207,126,Assaf Natanzon,https://research.com/images/placeholder-scholar.svg,DELL (United States),United States,94,16259,202
+208,9,Mark Harman,https://s.research.com/images/610518ecfae991990a3ca40af870f92507ea7536-65x65.jpeg,University College London,United Kingdom,94,33446,421
+209,127,J.J. Garcia-Luna-Aceves,https://s.research.com/images/ccb7f8b44890f708d965709717f8bd5f585d033d-65x65.jpeg,University of California,Santa Cruz,94,32603,499
+210,128,David J. DeWitt,https://s.research.com/images/e778fc82f9893da2c0237ba0cf560e63fa53d5f4-65x65.jpeg,University of Wisconsin–Madison,United States,94,42356,190
+211,129,Dimitris N. Metaxas,https://s.research.com/images/31554b2ea06e37b7455e37051d5bdeba9541b0c5-65x65.jpeg,Rutgers,The State University of New Jersey,93,36212,547
+212,4,Dusit Niyato,https://s.research.com/images/3a65d87daa1487ea921cd0aeb38e1cbf1a946a63-65x65.jpeg,Nanyang Technological University,Singapore,93,37331,602
+213,10,Jon Crowcroft,https://s.research.com/images/00f99f7bce4651273c43549eb87eff76853b26df-65x65.jpeg,University of Cambridge,United Kingdom,93,52869,514
+214,13,Nassir Navab,https://s.research.com/images/b07c99b0e12c8fb7866902f3c769bc535826b9c9-65x65.jpeg,Technical University of Munich,Germany,93,41927,1073
+215,8,Saul Greenberg,https://s.research.com/images/a27144d916580aa8bb24e44d5a29514a443bd599-65x65.jpeg,University of Calgary,Canada,93,27920,315
+216,11,Ian Horrocks,https://s.research.com/images/de07959952562257e051323d514f6a0a205edee0-65x65.jpeg,University of Oxford,United Kingdom,93,46869,367
+217,131,Wenke Lee,https://s.research.com/images/f687864991455be5543324a1c5a2b8fe0f9a12a0-65x65.jpeg,Georgia Institute of Technology,United States,93,41431,241
+218,130,Martín Abadi,https://s.research.com/images/705b37946528c35a715bf278522a940a1d1cdb18-65x65.jpeg,University of California,Santa Cruz,93,86223,242
+219,133,Eduard Hovy,https://s.research.com/images/ff1bdc035662a87cbd61be9233aed524e0cf312e-65x65.jpeg,Carnegie Mellon University,United States,93,41914,434
+220,132,Gene Tsudik,https://s.research.com/images/ccfbca382751f2454f368c13f1b51fd87e16742f-65x65.jpeg,University of California,Irvine,93,37528,339
+221,11,Jean-Pierre Hubaux,https://s.research.com/images/4f07ebd4c636aff993bb4118505c8350497e8d42-65x65.jpeg,École Polytechnique Fédérale de Lausanne,Switzerland,93,45018,349
+222,134,Samy Bengio,https://s.research.com/images/300089bc5270968eee38e6f49c028de19ee5a52b-65x65.jpeg,Google (United States),United States,93,53857,314
+223,9,Jian Pei,https://s.research.com/images/63a4c46332c6e0eda34df6f8bd779f5fdd394716-65x65.jpeg,Simon Fraser University,Canada,93,54684,376
+224,3,Mel Slater,https://s.research.com/images/6f37a0f4a8d9a83d9b323617836ea8ea9fdc2601-65x65.jpeg,University of Barcelona,Spain,92,38617,311
+225,6,Oded Goldreich,https://s.research.com/images/8309e11f6b6f8644602e0e95eaae45bc8e387a37-65x65.jpeg,Weizmann Institute of Science,Israel,92,57437,245
+226,135,William J. Dally,https://s.research.com/images/9f2d7eae1473d65e1aa2c621a1f7bff226ca3884-65x65.jpeg,Stanford University,United States,92,75916,277
+227,136,Pat Hanrahan,https://s.research.com/images/73c02e6272a3ccb5f101460a8910ca940b1e92df-65x65.jpeg,Stanford University,United States,92,47394,212
+228,137,Tarek Abdelzaher,https://s.research.com/images/efaf3dfeaa70c87c7a67d419616cb246aa169eb8-65x65.jpeg,University of Illinois at Urbana-Champaign,United States,92,34130,402
+229,3,Ian Reid,https://s.research.com/images/53df9cd0782dbf438d6007d444c46894491bb107-65x65.jpeg,University of Adelaide,Australia,92,41959,341
+230,4,Chunhua Shen,https://s.research.com/images/21699e467298cb009c16229f267e1cf285e4469f-65x65.jpeg,University of Adelaide,Australia,92,33027,436
+231,138,Kim-Kwang Raymond Choo,https://s.research.com/images/516960e664f3df665c8cb7a5fbc350b8932da67c-65x65.jpeg,The University of Texas at San Antonio,United States,92,28969,877
+232,139,Salvatore J. Stolfo,https://s.research.com/images/8d98c19da68c1de65d6a1ea6a045c331feca1644-65x65.jpeg,Columbia University,United States,92,39105,270
+233,12,Josef Kittler,https://s.research.com/images/4e4b21c82b3081f72a8a8e0b47af8e085ebf6c0d-65x65.png,University of Surrey,United Kingdom,92,57453,684
+234,140,John C. Mitchell,https://s.research.com/images/67f0d14d4c1fc7aa5f00e6c8059cfca926e8affd-65x65.jpeg,Stanford University,United States,91,28513,233
+235,141,Thomas Kailath,https://s.research.com/images/4d7c4b4739168c94c686b22577caa0ebc4139735-65x65.jpeg,Stanford University,United States,91,46702,339
+236,142,Vijay Kumar,https://s.research.com/images/6f6f0163bb2ef4998e63dc01bb55cb6d1835b48a-65x65.jpeg,University of Pennsylvania,United States,91,29503,411
+237,143,David L. Donoho,https://s.research.com/images/82e0df743509cb71d4eb24d04c2af92851985577-65x65.jpeg,Stanford University,United States,91,119157,175
+238,1,Shyi-Ming Chen,https://s.research.com/images/ae0669054d6990a0ee8cbb5aa192059c0aa798e7-65x65.jpeg,National Taiwan University of Science and Technology,Taiwan,91,24759,354
+239,145,George Karypis,https://s.research.com/images/560f61c21a49abd79993532da0cbf169fff636dd-65x65.jpeg,University of Minnesota,United States,91,74808,327
+240,2,Lorenzo Bruzzone,https://s.research.com/images/5e0df31abc55c4b8fbe152f4825bbb81611ba65d-65x65.jpeg,University of Trento,Italy,91,35549,493
+241,144,Ramesh Raskar,https://s.research.com/images/64c9fda40bf8fb082b8fe51b0c05ae378c3c9893-65x65.jpeg,MIT,United States,91,32472,443
+242,149,David R. Karger,https://s.research.com/images/6d77fc81ad6a47dd70250180b342081bf7ce5c16-65x65.jpeg,MIT,United States,91,69756,255
+243,1,Jon Atli Benediktsson,https://s.research.com/images/2f402e44f81da383c8361c2f1e0e8e154818b87f-65x65.jpeg,University of Iceland,Iceland,91,35423,409
+244,7,Michael Elad,https://s.research.com/images/444ae0fb65f5be62e78dc997e184b14933b0c5cf-65x65.png,Technion – Israel Institute of Technology,Israel,91,66845,273
+245,146,Ajith Abraham,https://s.research.com/images/728887be473798e5321342b75017f2836c4dcfec-65x65.jpeg,Machine Intelligence Research Labs,United States,91,34401,842
+246,148,Pushmeet Kohli,https://s.research.com/images/a5060a8712b8202150024b672c125f5d2bc04f92-65x65.jpeg,Google (United States),United States,91,35580,307
+247,147,Oren Etzioni,https://s.research.com/images/2b25512d3095fb67c54958eadc927de16d188a0b-65x65.png,Allen Institute for Artificial Intelligence,United States,91,41126,191
+248,2,Horst Bischof,https://s.research.com/images/7c1dce640060d61c9f65d25907839d643805675a-65x65.jpeg,Graz University of Technology,Austria,91,42715,595
+249,150,Daniel S. Weld,https://s.research.com/images/414f30d0c485b4de8db597c2c0ffb71d8e3e5b5b-65x65.jpeg,University of Washington,United States,91,39215,239
+250,151,Brad A. Myers,https://s.research.com/images/56228809802c1429fd96a4deb7eb150395183432-65x65.jpeg,Carnegie Mellon University,United States,91,32555,394
+251,12,Horst Bunke,https://s.research.com/images/e23c8fbc27a3b547c710cc6c3b2f277c87665b32-65x65.png,University of Bern,Switzerland,91,30405,482
+252,152,Michael K. Reiter,https://s.research.com/images/d134acbb2da3a8778b6d71fa48fbe6342e3e3610-65x65.jpeg,Duke University,United States,91,36982,290
+253,153,Alex Waibel,https://s.research.com/images/8f4e1bc82168465e3d33259a74c39eb2194020ca-65x65.jpeg,Carnegie Mellon University,United States,91,33958,592
+254,154,Jeffrey F. Cohn,https://s.research.com/images/cc5b1c90525b8f5599fbc29980bbf190e334ce17-65x65.jpeg,University of Pittsburgh,United States,90,37018,236
+255,155,Maja J. Matarić,https://s.research.com/images/baf39efe41ab8859b21cb1b3b73c2fc8ca5d879e-65x65.jpeg,University of Southern California,United States,90,36125,400
+256,156,Gaurav S. Sukhatme,https://s.research.com/images/e80bf2d56f4a2ba566adfaad2e77631976fa2bc1-65x65.jpeg,University of Southern California,United States,90,29375,413
+257,157,Shrikanth S. Narayanan,https://s.research.com/images/cbcb1fca5d2ad7de056338fcbdff019ede8a4a58-65x65.jpeg,University of Southern California,United States,90,32925,797
+258,14,Maja Pantic,https://s.research.com/images/1183daa5123f6c89f23fc806e11666132c23fd0c-65x65.jpeg,Imperial College London,United Kingdom,90,39557,406
+259,13,Björn Schuller,https://s.research.com/images/19fa3d60d6eba5d905cbe23771aa82ce08d93d57-65x65.jpeg,Imperial College London,United Kingdom,90,37376,743
+260,14,Thomas Brox,https://s.research.com/images/b2ced391851d5f18f107e33e446ea77b9e5171da-65x65.jpeg,University of Freiburg,Germany,90,76567,216
+261,158,James A. Hendler,https://s.research.com/images/bbff25c0d3dcaacaa80623ace20b37369732d62e-65x65.jpeg,Rensselaer Polytechnic Institute,United States,90,46426,369
+262,159,Kannan Ramchandran,https://s.research.com/images/5dc872eb85548fa409f3891539c2bd9a2472678e-65x65.jpeg,University of California,Berkeley,90,37387,413
+263,5,Erik Cambria,https://s.research.com/images/c4aad431a3127d8e272d0d7bcea940da988dbace-65x65.jpeg,Nanyang Technological University,Singapore,90,28444,305
+264,161,Divesh Srivastava,https://s.research.com/images/a23448733fc7b2f99a29196679f149df10fe47e6-65x65.jpeg,AT&T (United States),United States,90,29032,379
+265,160,Jiebo Luo,https://s.research.com/images/5467e20f3f45b19f0166569298449f8a4c7ab601-65x65.jpeg,University of Rochester,United States,90,31236,590
+266,1,Christian S. Jensen,https://s.research.com/images/e801bdf772a905ac413ca11dfe8e68f1344f649b-65x65.jpeg,Aalborg University,Denmark,90,29438,419
+267,15,Roberto Cipolla,https://s.research.com/images/0e67769ffce9a93ad3a25aeeb0d082703cbb0edf-65x65.jpeg,University of Cambridge,United Kingdom,90,45722,370
+268,162,David Wagner,https://s.research.com/images/5eaefc29117c07c480b54632e4f0d3f2167405a0-65x65.gif,University of California,Berkeley,90,61286,225
+269,22,Yan Zhang,https://s.research.com/images/809c2062bc2c7b560a3d168b5429962403575cfa-65x65.jpeg,Chinese Academy of Sciences,China,89,28376,539
+270,163,David Heckerman,https://s.research.com/images/587d9d63357855d208f9f8135803ebfe0b246ff1-65x65.png,Microsoft (United States),United States,89,50563,224
+271,164,Joshua B. Tenenbaum,https://s.research.com/images/f75eb285821c889d8a09edc87685468ff522af1f-65x65.jpeg,MIT,United States,89,56536,336
+272,165,Rosalind W. Picard,https://s.research.com/images/06a2bbcc1a9c6a86d48d36572bfc18146f622aca-65x65.png,MIT,United States,89,37179,277
+273,166,Rajeev Motwani,https://s.research.com/images/b72de481f20661f8a26a8b334c87584e4ade89ce-65x65.jpeg,Stanford University,United States,89,106748,194
+274,167,Ronald L. Rivest,https://s.research.com/images/06d3e34915688ec38fcfd9516e0dbe0c25e13d69-65x65.jpeg,MIT,United States,89,139991,247
+275,11,Ekram Hossain,https://s.research.com/images/97e3dab020a50d67c3b6f9d3f3f9dd30d8bb3360-65x65.jpeg,University of Manitoba,Canada,89,29532,415
+276,10,John Mylopoulos,https://s.research.com/images/d05c9667dc03c0538553f391607a8846728901db-65x65.jpeg,University of Ottawa,Canada,89,34793,483
+277,168,Gregory D. Abowd,https://s.research.com/images/4e73b3fd9a89363cea7bdcdb88b6f38970a765a0-65x65.jpeg,Northeastern University,United States,89,60206,313
+278,169,Mark A. Musen,https://s.research.com/images/754241ec571a9158d1bba7c21fce9501af2a15ef-65x65.jpeg,Stanford University,United States,89,37300,435
+279,23,Ming Zhou,https://s.research.com/images/51073be8664c3100d4bef3562f015a830226cabb-65x65.jpeg,Sinovation Ventures,China,89,27559,420
+280,170,Yuguang Fang,https://s.research.com/images/7d55d0d67a3dc6e643b3e185131cdb07dcf44fdd-65x65.jpeg,University of Florida,United States,89,23134,466
+281,171,Hosagrahar V. Jagadish,https://s.research.com/images/ad8fe2faf70ff84aa9f9f5b42d7b8b018460afae-65x65.png,University of Michigan–Ann Arbor,United States,89,32300,309
+282,24,Yunhao Liu,https://s.research.com/images/9ec3fbd95b55c152f7fb2e894b72aebbafa8eaaf-65x65.jpeg,Tsinghua University,China,89,40819,491
+283,172,ChengXiang Zhai,https://s.research.com/images/a42c7d144c7fe8aefcf83a4ca71f47f8067875a0-65x65.jpeg,University of Illinois at Urbana-Champaign,United States,89,36654,374
+284,1,Matti Pietikäinen,https://s.research.com/images/8ac0ba97036a297b30b5959a5c3e64ebd8149f4c-65x65.jpeg,University of Oulu,Finland,89,71435,298
+285,6,Ponnuthurai Nagaratnam Suganthan,https://s.research.com/images/d66fa099eb808246f35e66ff44f558cdad37494c-65x65.jpeg,Nanyang Technological University,Singapore,88,37825,320
+286,173,John M. Carroll,https://s.research.com/images/3caad3f2609502cb3275be94738aa2dcadb8f77c-65x65.jpeg,Pennsylvania State University,United States,88,35230,437
+287,174,David M. Blei,https://s.research.com/images/235ed9a9ab087fd7bab10f12b720ce9789fd7f8f-65x65.jpeg,Columbia University,United States,88,93852,191
+288,175,C. Lee Giles,https://s.research.com/images/814617a914837321a3e0f273abc241081aa17d32-65x65.jpeg,Pennsylvania State University,United States,88,33382,433
+289,1,Carlos A. Coello Coello,https://s.research.com/images/360c68cf513ce6edaacaaefa1e9d85cb61c6b164-65x65.jpeg,CINVESTAV,Mexico,88,42254,477
+290,176,Raymond J. Mooney,https://s.research.com/images/4d325b300df0bfd67546d31113a47b412c242f75-65x65.jpeg,The University of Texas at Austin,United States,88,37357,248
+291,177,Giovanni Vigna,https://s.research.com/images/1183bbe0a93fd81ef613f2db2dabf236f0e739dd-65x65.jpeg,University of California,Santa Barbara,88,31311,245
+292,178,Silvio Savarese,https://s.research.com/images/2debdf476630a7a3dcaf955cbef8194a5c573e6f-65x65.jpeg,Stanford University,United States,88,34151,279
+293,179,Pierre Baldi,https://s.research.com/images/490eeacadc8e91baed380847d39c5787654283a9-65x65.jpeg,University of California,Irvine,87,35034,280
+294,180,Alan S. Willsky,https://s.research.com/images/8dc2c8067eaf4b4e9ffafce29fc626dbe2b5b113-65x65.gif,MIT,United States,87,32153,393
+295,181,Fred Glover,https://s.research.com/images/34c3f1a8607ab4821e5048a0613081aefe1836d6-65x65.gif,University of Colorado Boulder,United States,87,56452,326
+296,182,Lotfi A. Zadeh,https://s.research.com/images/6f6c133c3e5096255482a1df5dfae052b162d120-65x65.jpeg,University of California,Berkeley,87,223135,190
+297,183,Jerry M. Mendel,https://s.research.com/images/20bf5acf90526f89c9ef0b4c9d881431aa74f52e-65x65.jpeg,University of Southern California,United States,87,48846,352
+298,5,James C. Bezdek,https://s.research.com/images/bf5afd1ce2c4deab10b6889465c2995164157404-65x65.jpeg,University of Melbourne,Australia,87,68598,311
+299,184,Jason Cong,https://s.research.com/images/88e8a06cb468eb5dbda4bdd904a7eca3be415963-65x65.png,University of California,Los Angeles,87,26214,446
+300,185,Noah A. Smith,https://s.research.com/images/8c4c6fe35a6bd0ed464ad5be32c92f148078701c-65x65.jpeg,University of Washington,United States,87,31144,304
+301,186,Ken Hinckley,https://s.research.com/images/8e017422f18aff1c6a24b56b525e4657881e01f4-65x65.jpeg,Microsoft (United States),United States,87,23687,201
+302,187,Rajeev Alur,https://s.research.com/images/088e9003df6153be0f4132e2edb59e16c708a06c-65x65.jpeg,University of Pennsylvania,United States,87,53826,261
+303,188,Mihalis Yannakakis,https://s.research.com/images/c4a46e589903dd6ce43a2c8672450229d9fffb39-65x65.jpeg,Columbia University,United States,87,36929,182
+304,189,Mary Czerwinski,https://s.research.com/images/516e82401a4adc767e75b1f1a934c386662b29c4-65x65.jpeg,Microsoft (United States),United States,87,22285,226
+305,190,Frédo Durand,https://s.research.com/images/3d784228e103a9fb17f01d5ab2bf9188864595f5-65x65.jpeg,MIT,United States,87,37015,235
+306,191,Henning Schulzrinne,https://s.research.com/images/8a58ccf6f04dfbf0d584dbdaa34fcebeb510732f-65x65.jpeg,Columbia University,United States,87,54317,509
+307,192,Jianfeng Gao,https://s.research.com/images/0f837c56984002785dede382973ff8fca3290fe4-65x65.jpeg,Microsoft (United States),United States,87,37330,364
+308,14,Daniel Thalmann,https://s.research.com/images/f7a633e084f1a59a59ad81f66bce399649707675-65x65.jpeg,École Polytechnique Fédérale de Lausanne,Switzerland,87,24065,565
+309,13,Roger Wattenhofer,https://s.research.com/images/421a4583e5974b86d433d310f750a6890e58ba55-65x65.jpeg,ETH Zurich,Switzerland,87,30521,369
+310,194,William W. Cohen,https://s.research.com/images/58069b1eb92e9c03ae8e1d8f2905714ac17ed0c3-65x65.jpeg,Google (United States),United States,87,38023,301
+311,195,Alexei A. Efros,https://s.research.com/images/2ae65d7cf54940ef3473399ce3adad5ed913b95d-65x65.jpeg,University of California,Berkeley,87,75292,151
+312,193,Dan Roth,https://s.research.com/images/cbdb94bcdad04c2d10185a5b9dad164cbc129bf3-65x65.jpeg,University of Pennsylvania,United States,87,29740,391
+313,196,Mark D. Hill,https://s.research.com/images/0f5314ee5f05c56e03280bf399c561ea2d14cc8c-65x65.jpeg,University of Wisconsin–Madison,United States,87,31997,215
+314,197,Panos M. Pardalos,https://s.research.com/images/e2e328a8d9ffe66b67dffc2a612d1e2ef241e35f-65x65.jpeg,University of Florida,United States,86,31657,633
+315,16,Mike Thelwall,https://s.research.com/images/732e1b8d9585cfd7befda513813d176d07121009-65x65.jpeg,University of Wolverhampton,United Kingdom,86,28782,330
+316,198,Quoc V. Le,https://s.research.com/images/c16e1b1c868e6d3f4478d1d11a60ea4d15133db1-65x65.jpeg,Google (United States),United States,86,95928,149
+317,200,Mohan M. Trivedi,https://s.research.com/images/111c6d74e8d9fd8719cffbdc3b355373b8248adb-65x65.jpeg,University of California,San Diego,86,29043,471
+318,199,Klara Nahrstedt,https://s.research.com/images/184bff884eb62e8d162ab92820d7c36d475cf3a4-65x65.png,University of Illinois at Urbana-Champaign,United States,86,30480,542
+319,1,Ioannis Pitas,https://s.research.com/images/c72c401021dd457ceb8203d701c8668a1c8353db-65x65.jpeg,Aristotle University of Thessaloniki,Greece,86,28195,653
+320,202,Dan Suciu,https://s.research.com/images/d42124576ebe29b8de32694abf64d8d4fc7714cc-65x65.jpeg,University of Washington,United States,86,32302,296
+321,203,George Varghese,https://s.research.com/images/3b39159f1e46a34709de7b1f8c0408fb3ea42e33-65x65.png,University of California,Los Angeles,86,38947,194
+322,201,DeLiang Wang,https://s.research.com/images/1b72c7c20ea60d638eda6bfd5f8b733de8acd64f-65x65.jpeg,The Ohio State University,United States,86,24618,350
+323,204,Lawrence R. Rabiner,https://s.research.com/images/d99e2af6f7cfd6ae637e55dd796b8f402d404118-65x65.gif,Rutgers,The State University of New Jersey,85,91366,284
+324,17,Michael Wooldridge,https://s.research.com/images/9d08e6c016e191eb2d57f0b4315fd46aeb3af8c1-65x65.jpeg,University of Oxford,United Kingdom,85,60251,336
+325,15,Heinrich H. Bülthoff,https://s.research.com/images/64a8caa533f36760481b76ce18c5b46e290bc224-65x65.jpeg,Max Planck Institute for Biological Cybernetics,Germany,85,28421,567
+326,205,Jakob Nielsen,https://s.research.com/images/178d0359d2496d3ffd6c64d9ed696f2cad18e8d7-65x65.jpeg,Nielsen Norman Group,United States,85,78222,166
+327,206,Scott Forstall,https://s.research.com/images/2564a9ea9d98fbe8601bcf1a2dea09c5d3c64e66-65x65.jpeg,Apple (United States),United States,85,28075,123
+328,207,Andrew D. Wilson,https://s.research.com/images/dacc83f16d87957989787d54f5320fcacabda44c-65x65.jpeg,Microsoft (United States),United States,85,26510,230
+329,208,Shahram Izadi,https://s.research.com/images/e5011a3349d5983ac6a386ff59d5e825e88536c1-65x65.jpeg,Google (United States),United States,85,28376,248
+330,25,Kui Ren,https://s.research.com/images/6bc534f3f085c8757431267852890bf7ccf03e19-65x65.jpeg,Zhejiang University,China,85,44641,341
+331,1,Peter Corcoran,https://s.research.com/images/ee566c167a1686311790bf29e127b5cbc408b2ac-65x65.jpeg,National University of Ireland,Galway,85,16946,310
+332,1,Neeraj Kumar,https://s.research.com/images/35d69a4fbe3575611efe800768082525feda0151-65x65.jpeg,Thapar University,India,85,20765,518
+333,18,Steve Young,https://s.research.com/images/7d1e5f4e316a96a4e725196cef2a5ff81642ea1e-65x65.jpeg,University of Cambridge,United Kingdom,85,27932,264
+334,209,Anupam Joshi,https://s.research.com/images/a9e5d66c9da81683c27c65e28d81304dff1f36a3-65x65.jpeg,University of Maryland,Baltimore County,85,27238,399
+335,12,Baochun Li,https://s.research.com/images/83c15a5697ced728110c6827514e8edb6535e2ab-65x65.jpeg,University of Toronto,Canada,85,22389,360
+336,3,Nicu Sebe,https://s.research.com/images/e64c4f7a11ffdde3e85bcf75c4979afdb21cd9d3-65x65.jpeg,University of Trento,Italy,85,26324,454
+337,13,Ahmed E. Hassan,https://s.research.com/images/a7f6cdac6fca94963679a81e22ea4600afabdba7-65x65.jpeg,Queen's University,Canada,85,20910,292
+338,26,Xiang-Yang Li,https://s.research.com/images/5825e1ba2883172a5e9012888ebea9ee51228d87-65x65.jpeg,University of Science and Technology of China,China,85,26448,494
+339,210,Abhinav Gupta,https://s.research.com/images/1c3bd196ab0b481a4567cf2888364be07ff859ec-65x65.jpeg,Facebook (United States),United States,85,41095,162
+340,211,Ramesh Jain,https://s.research.com/images/4511e34abf30a2af9bdf79191bcd3ec46b563c0c-65x65.jpeg,University of California,Irvine,85,47977,443
+341,212,Jonathan Katz,https://s.research.com/images/11b932d2a5412550f2fbb16680d8394eecce1714-65x65.jpeg,University of Maryland,College Park,85,27699,202
+342,19,Marc Davis,https://s.research.com/images/c2309618ab669acd72afa4e8008b66fff3e8fdce-65x65.png,Yahoo (United Kingdom),United Kingdom,84,19330,213
+343,1,Shun-ichi Amari,https://s.research.com/images/6c2c606cfbaff9bd16fe838dc546b4be087dc900-65x65.png,RIKEN Center for Brain Science,Japan,84,41842,303
+344,213,Joseph Y. Halpern,https://s.research.com/images/63852373bd62b1324801b275a21d0e289573035f-65x65.jpeg,Cornell University,United States,84,37476,258
+345,214,Sergio Verdu,https://s.research.com/images/d029e68236369355dfd4ed86830d4ddeeab811d7-65x65.jpeg,Princeton University,United States,84,46335,261
+346,215,Krishnendu Chakrabarty,https://s.research.com/images/ce2186ed2f79b1095666d7a378ff3da1a21bdafe-65x65.jpeg,Duke University,United States,84,27074,593
+347,27,Jun Wang,https://s.research.com/images/47fb2c24b512c950fb3666052d40f14cf9d431c3-65x65.jpeg,City University of Hong Kong,China,84,18149,267
+348,1,Roman Słowiński,https://s.research.com/images/f9b2173765a537b9a73a92f0dd4967c4d0d98a92-65x65.jpeg,Poznań University of Technology,Poland,84,28810,299
+349,8,Adi Shamir,https://s.research.com/images/1628849cfa20c7a32e02eba31c955a014692cad0-65x65.jpeg,Weizmann Institute of Science,Israel,84,104235,192
+350,20,Edmund K. Burke,https://s.research.com/images/42cf051c3913ba4867f2ea3bb1b272439189074e-65x65.jpeg,University of Leicester,United Kingdom,84,23905,261
+351,216,Edward A. Lee,https://s.research.com/images/9a9b268c1b4f5fe11ebb4b76aa080bcb6ad85577-65x65.jpeg,University of California,Berkeley,84,41886,355
+352,2,Bart Preneel,https://s.research.com/images/b902aa5af2b7662fa0b04848b4a5384ff01ee38c-65x65.jpeg,KU Leuven,Belgium,84,24527,553
+353,217,Hanspeter Pfister,https://s.research.com/images/96d1fa115ad0c75fedc674a7e35e53377f3e0d7b-65x65.jpeg,Harvard University,United States,84,25959,303
+354,28,Zhengyou Zhang,https://s.research.com/images/c094923794d13e780fb8f1164dbf9b08fdd22719-65x65.jpeg,Tencent (China),China,84,41743,319
+355,218,Aggelos K. Katsaggelos,https://s.research.com/images/5ec905d4b82ba2e39b1f219454a8d903849b841b-65x65.jpeg,Northwestern University,United States,84,29398,764
+356,1,Ian H. Witten,https://s.research.com/images/5ec1bcde3350e1f1b795291b889898e00f097176-65x65.jpeg,University of Waikato,New Zealand,84,155117,361
+357,7,Beng Chin Ooi,https://s.research.com/images/a565293d40a79937bcf696a2c764ad3d8ad02959-65x65.jpeg,National University of Singapore,Singapore,84,24229,334
+358,219,Judea Pearl,https://s.research.com/images/5cac503a908840abcc33462db6d7fc80245cd3aa-65x65.jpeg,University of California,Los Angeles,83,71542,235
+359,21,Lajos Hanzo,https://s.research.com/images/7840a9ca82adb8b9a181c81c6a9a6b04e8f7e508-65x65.jpeg,University of Southampton,United Kingdom,83,33037,1061
+360,14,Michel Gendreau,https://s.research.com/images/f5f9794bc3bd6e9e3d1e41cf3504ae669d22c13c-65x65.jpeg,Polytechnique Montréal,Canada,83,35580,282
+361,220,Michael Luby,https://s.research.com/images/957cc3130bfe013e811cd031196e4c0903b9d22c-65x65.gif,BitRipple,United States,83,38060,191
+362,29,Min Chen,https://s.research.com/images/9f27dcd082520d1aff9cdef31592564d4a42beeb-65x65.jpeg,Huazhong University of Science and Technology,China,83,26540,446
+363,3,Herbert Edelsbrunner,https://s.research.com/images/7a21218a070e61bacd8f400ca12dc9de3f0c2988-65x65.jpeg,Institute of Science and Technology Austria,Austria,83,36873,220
+364,1,Lawrence Carin,https://s.research.com/images/256c2c73fcc666a0e08ad1d13fa5dc9ed9c64457-65x65.png,King Abdullah University of Science and Technology,Saudi Arabia,83,27046,555
+365,221,Pedro Domingos,https://s.research.com/images/730c34e500ace16a3d4e48ae39e1742c24cef249-65x65.jpeg,University of Washington,United States,83,46358,172
+366,30,Feiping Nie,https://s.research.com/images/de9fd442c334ec35d555434c072fe00ad0c362df-65x65.jpeg,Northwestern Polytechnical University,China,83,23278,423
+367,1,Mohsen Guizani,https://s.research.com/images/46047439e4a8f530d8e2f8f42ac28fe1c396acaa-65x65.jpeg,Qatar University,Qatar,83,32686,818
+368,15,Lothar Thiele,https://s.research.com/images/125318e814b68748e4bbd4f4d7dbd971a9b699e6-65x65.jpeg,ETH Zurich,Switzerland,83,62207,468
+369,222,Carl Kesselman,https://s.research.com/images/6eee92024e0880e9df271d1d0d1cdce067a87c65-65x65.jpeg,University of Southern California,United States,83,77186,195
+370,9,David Peleg,https://s.research.com/images/de3f9d038e1eff938ac4978f1f7812242c6776e6-65x65.jpeg,Weizmann Institute of Science,Israel,83,23142,300
+371,223,Mahadev Satyanarayanan,https://s.research.com/images/252d1cc58d943abe7c630886d1d72a4e4a60cb52-65x65.jpeg,Carnegie Mellon University,United States,83,39686,228
+372,4,Antonio Plaza,https://s.research.com/images/fde51319b4639adc35f73654d1260b5a5af94d9d-65x65.jpeg,University of Extremadura,Spain,83,29852,521
+373,16,Christian Theobalt,https://s.research.com/images/7e1f36326be4737dc4ad0dc91716d8cc5732d9f2-65x65.jpeg,Max Planck Institute for Informatics,Germany,83,23100,314
+374,224,Stefan Savage,https://s.research.com/images/16956bb58fa34cf4d4d1c1576bf326cc9e9ae06f-65x65.jpeg,University of California,San Diego,83,45271,156
+375,226,Kristen Grauman,https://s.research.com/images/4845f2c79257e7afeb536c4aad3efa1109412620-65x65.jpeg,Facebook (United States),United States,83,28646,230
+376,228,Phillip B. Gibbons,https://s.research.com/images/877c7e928075efb1bb8c75780b9177c35da92e71-65x65.jpeg,Carnegie Mellon University,United States,83,29950,207
+377,22,Carole Goble,https://s.research.com/images/3ea4c1105841c77cdcf7ec2f227a9d522f63874f-65x65.jpeg,University of Manchester,United Kingdom,83,33851,414
+378,31,Lionel M. Ni,https://s.research.com/images/704ef8cb91032d895a37e5184889246838e6ae9f-65x65.jpeg,Hong Kong University of Science and Technology,China,83,43246,383
+379,225,Guohong Cao,https://s.research.com/images/0a33a8508ef534918205de8bec16b409ef5d1c21-65x65.jpeg,Pennsylvania State University,United States,83,29071,253
+380,227,Ken Kennedy,https://research.com/images/placeholder-scholar.svg,Rice University,United States,83,22878,219
+381,5,Olivier Faugeras,https://s.research.com/images/4e4712f21a0f89166c11723595247238c69c34e2-65x65.jpeg,French Institute for Research in Computer Science and Automation - INRIA,France,82,43045,221
+382,229,Robert Nowak,https://s.research.com/images/76ee3029f9d8e69514a88ef66b88e174ae60d53d-65x65.jpeg,University of Wisconsin–Madison,United States,82,26970,277
+383,230,Miron Livny,https://s.research.com/images/31d6b526eb45cbf85b3d98badd18bc05d2587704-65x65.png,University of Wisconsin–Madison,United States,82,40727,227
+384,1,Joel J. P. C. Rodrigues,https://s.research.com/images/acfdb8488335280e37a81dcfe3ae80fb7a055a8a-65x65.jpeg,Federal University of Piauí,Brazil,82,22549,831
+385,15,Laurence T. Yang,https://s.research.com/images/6836623d71e9fc4fc9b258244330ac09604488d6-65x65.jpeg,St. Francis Xavier University,Canada,82,21189,635
+386,16,Aaron Courville,https://s.research.com/images/ba1916a4e87341724abd090ec97b66c8ea1acd3b-65x65.jpeg,University of Montreal,Canada,82,138510,179
+387,232,Andrew T. Campbell,https://s.research.com/images/059533e75b540797adc05b618b5206c1e2c16cec-65x65.jpeg,Dartmouth College,United States,82,34258,259
+388,231,Prabhakar Raghavan,https://s.research.com/images/c484aad486fe0080f14b85ac917043ffa1a248ea-65x65.png,Google (United States),United States,82,70157,199
+389,4,Schahram Dustdar,https://s.research.com/images/3b6556ff69431a9dce9151174f1248af6f040f4a-65x65.jpeg,TU Wien,Austria,82,33088,630
+390,32,Yu Zheng,https://s.research.com/images/df9bd6eecd8452c8b237ba753d5466932c6a59a6-65x65.jpeg,Jingdong (China),China,82,35846,176
+391,233,Kevin W. Bowyer,https://s.research.com/images/360e753342c6ce7c62615883669621e5dec620fc-65x65.jpeg,University of Notre Dame,United States,82,59271,371
+392,235,Amit Sahai,https://s.research.com/images/e5f8b6a116bb65a7b6fb6bd8ef69fb5816258365-65x65.jpeg,University of California,Los Angeles,82,48334,214
+393,6,Albert Y. Zomaya,https://s.research.com/images/66cae5a15fc40e9d0f275249aaff7e7d0f0c7fb9-65x65.jpeg,University of Sydney,Australia,82,27070,727
+394,234,Michael J. Carey,https://s.research.com/images/a6e7b0388338e7888cebff916df9138c7178d2f7-65x65.gif,University of California,Irvine,82,23583,224
+395,236,Raghu Ramakrishnan,https://s.research.com/images/67932c146cc79358beef13352ae6e5765809f63c-65x65.png,Microsoft (United States),United States,82,48220,242
+396,33,Jiaya Jia,https://s.research.com/images/7606deb2eb40d6bdc9f159520898be391ce78518-65x65.jpeg,Chinese University of Hong Kong,China,82,36222,220
+397,238,Wenjing Lou,https://s.research.com/images/78b802167eb900025388c834c8b5742dcb9d4b7f-65x65.jpeg,Virginia Tech,United States,82,43545,263
+398,237,Alexander G. Hauptmann,https://s.research.com/images/8ecc378f4459c90cb451cf08f75487ae8fca855b-65x65.jpeg,Carnegie Mellon University,United States,82,25246,452
+399,17,Daniel A. Keim,https://s.research.com/images/acb5d42c9de2ed24665e04e752f6baa7ca91138d-65x65.jpeg,University of Konstanz,Germany,82,36042,383
+400,2,Chin-Chen Chang,https://s.research.com/images/eb7185dbabfc715c35d51237c46aabe47482f7d8-65x65.jpeg,Feng Chia University,Taiwan,82,26268,1020
+401,8,Chen Change Loy,https://s.research.com/images/bc6fbb03ab389a2ed36f7eab444b4f8ebca4f3b7-65x65.jpeg,Nanyang Technological University,Singapore,82,36611,161
+402,239,Avi Wigderson,https://s.research.com/images/91b6765ff4ae1e93840b76cbebd2cfaa4bbc6b5a-65x65.jpeg,Institute for Advanced Study,United States,81,36396,229
+403,240,Ming C. Lin,https://s.research.com/images/9d2eafb9c85f2c07242fab2738e7dd02b0c16202-65x65.jpeg,University of Maryland,College Park,81,25684,264
+404,241,Zohar Manna,https://s.research.com/images/3de029346822cc888cf9836f292ee08d677c9cff-65x65.gif,Stanford University,United States,81,29659,195
+405,3,Ingrid Verbauwhede,https://s.research.com/images/ecc87f94325a72d03810cdbf9351e3a5d9d0479d-65x65.jpeg,KU Leuven,Belgium,81,21108,400
+406,17,Lionel C. Briand,https://s.research.com/images/e0033a394697464655d78f3da4cd15bb95ee28a2-65x65.jpeg,University of Ottawa,Canada,81,28070,319
+407,242,Ricardo Baeza-Yates,https://s.research.com/images/a1216cffcb7ef1ba4563694d64ccc6caa5c81706-65x65.jpeg,Northeastern University,United States,81,46667,384
+408,245,Jeffrey F. Naughton,https://s.research.com/images/98668ae68cf150dd95d5eb688734b93e7c0f4e18-65x65.png,Google (United States),United States,81,23865,201
+409,243,Thad Starner,https://s.research.com/images/7ce4c036c125b160d9e4583b9ffb5a7d18c85333-65x65.jpeg,Georgia Institute of Technology,United States,81,30627,288
+410,1,Marlon Dumas,https://s.research.com/images/fdb96e3d397ccb3a4bd89459f853c2d366b3caa8-65x65.jpeg,University of Tartu,Estonia,81,32216,323
+411,244,Nancy Lynch,https://s.research.com/images/9bc925b3789d9fbbb859abbb1452134d32842465-65x65.jpeg,MIT,United States,81,39190,320
+412,1,Jiri Matas,https://s.research.com/images/83ddd4bc4c476ce249ebccadd8c928b4b3d48982-65x65.jpeg,Czech Technical University in Prague,Czech Republic,81,56833,258
+413,4,Maurizio Lenzerini,https://s.research.com/images/cd2dc1706e2f2f34b6fcf564ab824f0c4de4243a-65x65.jpeg,Sapienza University of Rome,Italy,81,28834,256
+414,247,Zheng Chen,https://s.research.com/images/8ff9f5bfa990226a057cefec4ec87bbf5d44c30d-65x65.jpeg,Microsoft (United States),United States,81,22984,303
+415,2,Sankar K. Pal,https://s.research.com/images/4e962c82d0a40b511b3e900d28333677ced0f447-65x65.jpeg,Indian Statistical Institute,India,81,33455,365
+416,246,Sing Bing Kang,https://s.research.com/images/c0baad35f59865dc261510abf88b6f316f3acf26-65x65.jpeg,Zillow Group (United States),United States,81,23913,219
+417,9,Hui Zhang,https://s.research.com/images/2171ebc1172a51a24104261cc5cbc818d77ccbe4-65x65.jpeg,National University of Singapore,Singapore,81,38026,160
+418,248,Christos Davatzikos,https://s.research.com/images/5836fd511d0ce7c60e89c7353e568c9e123859d3-65x65.jpeg,University of Pennsylvania,United States,80,24685,333
+419,6,Francis Bach,https://s.research.com/images/8b8f9a0436d3028ad254de58651f11dd182412cd-65x65.jpeg,French Institute for Research in Computer Science and Automation - INRIA,France,80,36980,218
+420,34,Wei Liu,https://s.research.com/images/dd9692f210968d6e0ee999e521f8ed0ffd7f75b3-65x65.png,Tencent (China),China,80,26866,478
+421,2,Grzegorz Rozenberg,https://s.research.com/images/150f2f171d1fe713f4dc227bd95c7486ac6b5de8-65x65.jpeg,Leiden University,Netherlands,80,29070,464
+422,23,Henning Hermjakob,https://s.research.com/images/cf8fc8428651b22b5f5b16b1c1cca4db01d067f2-65x65.jpeg,European Bioinformatics Institute,United Kingdom,80,46470,259
+423,24,Xin-She Yang,https://s.research.com/images/530c36e78036c2df9808ee98ce1aea419abaff16-65x65.jpeg,Middlesex University,United Kingdom,80,56965,270
+424,249,John Platt,https://s.research.com/images/be86b2da11e424932555472a633e802895cd708b-65x65.jpeg,Google (United States),United States,80,58953,225
+425,25,Yaochu Jin,https://s.research.com/images/7e092333569da97274547583a71a9508650b1e39-65x65.jpeg,University of Surrey,United Kingdom,80,25094,379
+426,250,Alex Aiken,https://s.research.com/images/bb7b2e881a289a592e98439c4009db478da62307-65x65.jpeg,Stanford University,United States,80,23853,212
+427,251,William Gropp,https://s.research.com/images/9645b9817cb5002fc594c93edb26be36819a425f-65x65.png,University of Illinois at Urbana-Champaign,United States,80,39348,338
+428,252,K.J.R. Liu,https://s.research.com/images/59b04ad8b3e1100ac35161304ce1a1e93307d22b-65x65.jpeg,University of Maryland,College Park,80,23045,397
+429,255,Pramod K. Varshney,https://s.research.com/images/9e699613a95001b8961e12fbfc3e63cb7af44643-65x65.jpeg,Syracuse University,United States,80,33806,615
+430,5,Dieter Fensel,https://s.research.com/images/31419300d6024d1a5851679549acacad3c136e9a-65x65.jpeg,University of Innsbruck,Austria,80,38319,333
+431,18,Carsten Rother,https://s.research.com/images/a58ba180b21874c88365400f60514f7c923cc2a2-65x65.jpeg,Heidelberg University,Germany,80,35913,231
+432,2,Kim Guldstrand Larsen,https://s.research.com/images/69d9fd07b90d4549f5e322f128711455a2f004f0-65x65.jpeg,Aalborg University,Denmark,80,27466,391
+433,35,Pheng-Ann Heng,https://s.research.com/images/4e10c0fab43a3f42535174852b4f9728b3ca2b62-65x65.png,Chinese University of Hong Kong,China,80,24006,483
+434,254,Thomas Funkhouser,https://s.research.com/images/bc42058024ce178d74c25aacc031d6e5add8a22c-65x65.jpeg,Princeton University,United States,80,33421,159
+435,253,Gregory D. Hager,https://s.research.com/images/3e460b9a90d52fb224ef6f384ec8b349e0750209-65x65.jpeg,Johns Hopkins University,United States,80,29570,429
+436,256,Patrick McDaniel,https://s.research.com/images/0afefdff08d8922050fa64dc1fa9484e24f1447f-65x65.jpeg,Pennsylvania State University,United States,80,44059,220
+437,260,Nasir Memon,https://s.research.com/images/8f39d22c3ba4bfe7e20dd2c5291c9eee3e6b2cbc-65x65.jpeg,New York University,United States,80,23928,311
+438,259,Moti Yung,https://s.research.com/images/2fe45df97ff9982d68b1a9df7650751939b6f6a2-65x65.jpeg,Columbia University,United States,80,27465,340
+439,5,Juan M. Corchado,https://s.research.com/images/baba3654ffc1fd17fa7f593698c0f0683f74686d-65x65.jpeg,University of Salamanca,Spain,80,17844,467
+440,258,Douglas C. Schmidt,https://s.research.com/images/8741583e8f91c17359c4b41f35db7c4a6aaf40dc-65x65.jpeg,Vanderbilt University,United States,80,29557,441
+441,257,David Forsyth,https://s.research.com/images/bb0ff8e1472d8d7a0b79445a2a3112854eea681c-65x65.png,University of Illinois at Urbana-Champaign,United States,80,36407,229
+442,262,Gerard Medioni,https://s.research.com/images/7d436ec0373f0cdbdda679752bbd28b5fbd3ff97-65x65.png,Amazon (United States),United States,80,30052,370
+443,263,Wen-mei W. Hwu,https://s.research.com/images/9e60f735a7b9fe20828eed95d47dbabec0e601ef-65x65.jpeg,University of Illinois at Urbana-Champaign,United States,80,26581,392
+444,266,Christos Kozyrakis,https://s.research.com/images/a5c4625588a21508f32063a90ac94d7801a8392d-65x65.jpeg,Stanford University,United States,80,25235,194
+445,264,Narendra Ahuja,https://s.research.com/images/7cb4a4b6afe6cf71599a59b6f25ce052439b8b87-65x65.png,University of Illinois at Urbana-Champaign,United States,80,34898,405
+446,19,Ahmad-Reza Sadeghi,https://s.research.com/images/50fa3b997c30d70b9add5733c265638cd145c042-65x65.png,TU Darmstadt,Germany,80,25407,396
+447,265,Johannes Gehrke,https://s.research.com/images/33ec0a00de2b38ae9c1a67fa0f4062a896d70d9e-65x65.jpeg,Microsoft (United States),United States,80,56343,237
+448,36,Xilin Chen,https://s.research.com/images/740d8810a307537c69a6b957788238c1a054162c-65x65.jpeg,Institute Of Computing Technology,China,80,27101,434
+449,261,Hanan Samet,https://s.research.com/images/b0d068a8adf162ccb8f74d1cbcbeefa59b07a56d-65x65.gif,University of Maryland,College Park,80,29575,314
+450,18,Jimmy Lin,https://s.research.com/images/db9b91d8fbe9f2928ff01f25d797c1c65f56a878-65x65.jpeg,University of Waterloo,Canada,80,21732,418
+451,26,Andrea Vedaldi,https://s.research.com/images/cbfc4322bef47a20641d9028bc05055565a2af46-65x65.jpeg,University of Oxford,United Kingdom,80,62182,193
+452,3,Krithi Ramamritham,https://s.research.com/images/9b7f0e6c52b99166e8db9153e85e6079b195f7b4-65x65.png,Indian Institute of Technology Bombay,India,80,21842,335
+453,267,Martin J. Wainwright,https://s.research.com/images/097903bf9951014c4e54d722d5e75d3e3fd5e95f-65x65.jpeg,University of California,Berkeley,79,35194,206
+454,27,Peter Willett,https://s.research.com/images/463dbc848ec588edf493b1809b850e6f763d1cd6-65x65.jpeg,University of Sheffield,United Kingdom,79,24068,370
+455,268,Katia Sycara,https://s.research.com/images/9e950b798abd1d5df76c7a3f77251a5e08f423fc-65x65.gif,Carnegie Mellon University,United States,79,35356,496
+456,271,Michael A. Paolini,https://s.research.com/images/27ab6095fda830f73366416d53226c9bb707c48d-65x65.jpeg,IBM (United States),United States,79,16908,198
+457,269,Ge Wang,https://s.research.com/images/1e940bfa0ea87ca4c0ca0862ad079292c0587ba1-65x65.jpeg,Rensselaer Polytechnic Institute,United States,79,33869,556
+458,270,Yuan Xie,https://s.research.com/images/db728cb031c7b8c3af5cb5e0f8a5630560f8f514-65x65.jpeg,University of California,Santa Barbara,79,21903,455
+459,272,Victor R. Basili,https://s.research.com/images/e01f8eea73f2d8e37129041b87b8cb474df0ca8d-65x65.jpeg,University of Maryland,College Park,79,36478,301
+460,273,Cary Lee Bates,https://research.com/images/placeholder-scholar.svg,IBM (United States),United States,79,17427,333
+461,274,Tom M. Mitchell,https://s.research.com/images/d1b6e1edeef6e8fb672808a0c514c9edd493c979-65x65.png,Carnegie Mellon University,United States,79,53253,234
+462,275,Dennis Shasha,https://s.research.com/images/68fe13f96329c2e5c24967dcd13bfe4f46c5bb08-65x65.jpeg,New York University,United States,79,24462,267
+463,278,Vladlen Koltun,https://s.research.com/images/85f101524028a3cc914506f678fba0edfe5484ab-65x65.jpeg,Intel (United States),United States,79,35270,154
+464,277,Manuela Veloso,https://s.research.com/images/ade4bf500aa3f32c58b73b669392cfd93b5958a9-65x65.jpeg,Carnegie Mellon University,United States,79,32276,531
+465,279,George G. Robertson,https://research.com/images/placeholder-scholar.svg,Microsoft (United States),United States,79,26078,178
+466,276,Rafail Ostrovsky,https://s.research.com/images/ae9bc8bfee9283eb5c288ba3a149f5c6c64680f7-65x65.jpeg,University of California,Los Angeles,79,32762,304
+467,280,Jim Kurose,https://s.research.com/images/0053295ef5955740b7e0cd8b4c734c90f156e7f1-65x65.png,University of Massachusetts Amherst,United States,79,27969,253
+468,283,David Wetherall,https://s.research.com/images/8cd6eb6ad7066e107972fe44c6b2cea16ec59b8f-65x65.jpeg,University of Washington,United States,79,35798,142
+469,281,Mung Chiang,https://s.research.com/images/08f09ee2ab7fb161d618993e59ae506f0ad66a83-65x65.jpeg,Purdue University West Lafayette,United States,79,26096,316
+470,282,Jeffrey Dean,https://s.research.com/images/ca977182da8fcce7af470069f0135123eb3fb230-65x65.jpeg,Google (United States),United States,79,188320,163
+471,28,Mirella Lapata,https://s.research.com/images/756d5ce271d2ab8a962012b623d60ea633b25b21-65x65.jpeg,University of Edinburgh,United Kingdom,79,22111,217
+472,286,Angelos D. Keromytis,https://s.research.com/images/ba60eb61b2bd175b1befe1993788650048549f39-65x65.jpeg,Georgia Institute of Technology,United States,79,24227,322
+473,19,Ravin Balakrishnan,https://s.research.com/images/dc1358c268eb64db86c1a6757707ef5022dbe349-65x65.png,University of Toronto,Canada,79,18932,161
+474,285,James M. Rehg,https://s.research.com/images/431774a9aadec883603863d0109ff9c95ed88c97-65x65.jpeg,Georgia Institute of Technology,United States,79,24725,241
+475,284,Jake K. Aggarwal,https://s.research.com/images/8e25d12aea31c109302af03ba3277049a21da4bc-65x65.jpeg,The University of Texas at Austin,United States,79,29267,305
+476,287,Yi Ma,https://s.research.com/images/d05cc51ea796841582bf7b53df60412c4b2337b2-65x65.jpeg,University of California,Berkeley,79,61368,207
+477,288,Brent Waters,https://s.research.com/images/78dc6bf3ea9de4cbef19e96bc52d5ef75c99de3b-65x65.jpeg,The University of Texas at Austin,United States,79,56870,142
+478,289,Divyakant Agrawal,https://s.research.com/images/586a37456964a3e3b046ebe826035df56b199acc-65x65.jpeg,University of California,Santa Barbara,79,22656,383
+479,20,Ivan Stojmenovic,https://s.research.com/images/fec370741f6546555bcf51dac89e040be0ccfd0f-65x65.jpeg,University of Ottawa,Canada,79,29501,335
+480,37,Shiguang Shan,https://s.research.com/images/9f32ef836eb213bf1a0b6a78a1688ba266eb4508-65x65.jpeg,Chinese Academy of Sciences,China,79,26221,377
+481,290,Monica S. Lam,https://s.research.com/images/17c33bce489033c185ac43147b3c2c66be282353-65x65.png,Stanford University,United States,79,30715,176
+482,7,Mark Billinghurst,https://s.research.com/images/1389cef63890caab17c571827512eb1d55a7cb21-65x65.jpeg,University of South Australia,Australia,79,30037,504
+483,291,Barbara Liskov,https://s.research.com/images/f4be92a7748e57acef1f6266cefcbc59d3745bd9-65x65.jpeg,MIT,United States,79,31595,166
+484,292,Nirwan Ansari,https://s.research.com/images/ea4c961cc6c497d694eb2908de90939955f5fe02-65x65.jpeg,New Jersey Institute of Technology,United States,79,23384,558
+485,293,Andreas Stolcke,https://s.research.com/images/e7760e2fc44816ade2dd829fd913b4154e1a4b2a-65x65.jpeg,Amazon (United States),United States,79,27313,242
+486,29,Antonio Criminisi,https://s.research.com/images/32c546c08e85789d59b5280b01738392b5c647fe-65x65.jpeg,Amazon (United Kingdom),United Kingdom,79,33722,203
+487,1,Ling Shao,https://s.research.com/images/7defc1f9061ecb298adefa46767c79d3fa54b775-65x65.jpeg,Inception Institute of Artificial Intelligence,United Arab Emirates,79,26332,613
+488,294,Song-Chun Zhu,https://s.research.com/images/4cad582b16f8d73de2d1810e97fbd4356451a983-65x65.jpeg,University of California,Los Angeles,79,28623,365
+489,30,Sebastien Ourselin,https://s.research.com/images/2afba501bef6456626ff2febe3cbcc7a4b13998b-65x65.png,King's College London,United Kingdom,78,24672,588
+490,5,Enrico Zio,https://s.research.com/images/6ddf887c5feb0fe4acb64b10facb6f7d9bf9b0b8-65x65.jpeg,Politecnico di Milano,Italy,78,21250,639
+491,38,Tong Zhang,https://s.research.com/images/7788f810ff248865329f098c8c4bd44dc3fbe4e5-65x65.jpeg,Hong Kong University of Science and Technology,China,78,28541,225
+492,295,George J. Pappas,https://s.research.com/images/33401780dc900e851a61f927b55b926301bbe003-65x65.jpeg,University of Pennsylvania,United States,78,21883,357
+493,296,Thomas L. Griffiths,https://s.research.com/images/1cf3f17c850992571511b0eea9587d023a4788af-65x65.jpeg,Princeton University,United States,78,37450,268
+494,2,Tony F. Chan,https://s.research.com/images/7a43aad9e067275ec2c8c26fcde58b91c35584f3-65x65.png,King Abdullah University of Science and Technology,Saudi Arabia,78,47439,257
+495,298,Inderjit S. Dhillon,https://s.research.com/images/e855913768684274c65a6f942ebb2f32a39ab634-65x65.png,Amazon (United States),United States,78,34644,217
+496,297,Jose C. Principe,https://s.research.com/images/9559c34f389443301152b45e08424522e47f6e40-65x65.jpeg,University of Florida,United States,78,31618,777
+497,39,Qian Zhang,https://s.research.com/images/b3a4fa6bbde8a75adcbd4e43f9361dc361c7be07-65x65.jpeg,Hong Kong University of Science and Technology,China,78,23415,532
+498,299,Dorin Comaniciu,https://s.research.com/images/24fa58f4ea526f66e7fb9ad697dbf10298454f72-65x65.jpeg,Siemens (United States),United States,78,49353,442
+499,40,Rong Jin,https://s.research.com/images/f5ceda3e56542c3a1d2b8e373166c02c8845e3e8-65x65.jpeg,Alibaba Group (China),China,78,19396,302
+500,301,Kai Li,https://s.research.com/images/1a3f0c4d7c93bf96e3312a34d897b151f7b04925-65x65.gif,Princeton University,United States,78,66692,175
+501,300,Ravi Kumar,https://s.research.com/images/e91c58beeda31c01ab1666fea7f8cc47d48da307-65x65.jpeg,Google (United States),United States,78,44424,230
+502,302,Piotr Indyk,https://s.research.com/images/a89f58e410edfb2158bd18594e79d0baec223e0d-65x65.jpeg,MIT,United States,78,39977,202
+503,305,Prashant Shenoy,https://s.research.com/images/b0607f8bc5ec41e365aa43e076c427937c367e64-65x65.jpeg,University of Massachusetts Amherst,United States,78,21604,269
+504,303,Fernando Pereira,https://s.research.com/images/7d00de9b6d1efe4d9013315264ba98f037de64bb-65x65.jpeg,Google (United States),United States,78,53111,140
+505,304,Thomas Reps,https://s.research.com/images/1ea22e62d7e1a3e2612726f5c165007e73298c15-65x65.jpeg,University of Wisconsin–Madison,United States,78,29246,247
+506,308,Kevin Knight,https://s.research.com/images/215a65005c26982a9575fdc9badfc228a5687357-65x65.png,University of Southern California,United States,78,23550,219
+507,307,Ran Canetti,https://s.research.com/images/c9c7c86eaa0fd7f6f439a9d6db609539335aeedd-65x65.jpeg,Boston University,United States,78,42145,202
+508,310,Alon Halevy,https://s.research.com/images/7d14606854c8534347239dbbf07d8d23907ffab8-65x65.jpeg,Facebook (United States),United States,78,35250,182
+509,306,Jonathan J. Hull,https://s.research.com/images/2f79ee5bc28f1f72b61be090e18343124f2f6202-65x65.jpeg,Independent Scientist / Consultant,US,78,19356,223
+510,309,Luke Zettlemoyer,https://s.research.com/images/d7fdf3683b6aa6c6746d0fcc7d65b1b7603d41ea-65x65.jpeg,University of Washington,United States,78,44017,187
+511,311,Nuno Vasconcelos,https://s.research.com/images/60d1d8d3eba15c8c5ed6f4aa3993efb07dd65016-65x65.jpeg,University of California,San Diego,78,23952,221
+512,31,Tao Xiang,https://s.research.com/images/3e5db4452743010fdea6d08c2b12f482932fe187-65x65.jpeg,University of Surrey,United Kingdom,78,24385,240
+513,3,Wiro J. Niessen,https://s.research.com/images/ad653b052116d96f7c0000112c579c78018c6178-65x65.jpeg,Erasmus University Rotterdam,Netherlands,77,23356,374
+514,312,Milind Tambe,https://s.research.com/images/b111906d8cfee477044f494bfddd8eda5b9a9f09-65x65.jpeg,Harvard University,United States,77,23199,431
+515,313,Michael Mitzenmacher,https://s.research.com/images/5484f2324f76e5ac9a1779af1ba154928ec1f78a-65x65.png,Harvard University,United States,77,31827,260
+516,2,Hiroshi Ishiguro,https://s.research.com/images/fa6b716f988d3dfcbff00d0cc7cc2333f709b6b1-65x65.jpeg,Osaka University,Japan,77,21042,566
+517,314,Dina Katabi,https://s.research.com/images/304e4676d09373fbbc43911415b24e9c683ab8d1-65x65.png,MIT,United States,77,32425,165
+518,20,Frank Leymann,https://s.research.com/images/424bb1d11295174b3f73b8efa119ad41f34004a2-65x65.jpeg,University of Stuttgart,Germany,77,27339,499
+519,315,José Meseguer,https://s.research.com/images/357b03c86b409e20185f9abf42b4dd98bd0cb3cb-65x65.png,University of Illinois at Urbana-Champaign,United States,77,28659,359
+520,16,Davide Scaramuzza,https://s.research.com/images/5a54a544ab234fa6cc60e243324fb7d65ff6edb9-65x65.jpeg,University of Zurich,Switzerland,77,30375,222
+521,41,Jeffrey Xu Yu,https://s.research.com/images/f7eb09be1dda4128b914aaa1f04b25b7125b384e-65x65.jpeg,Chinese University of Hong Kong,China,77,19631,399
+522,32,Yudong Zhang,https://s.research.com/images/9b792ce2a9e9cb70fdbed6ddb296eb09e15d275f-65x65.jpeg,University of Leicester,United Kingdom,77,16874,352
+523,318,Arie E. Kaufman,https://s.research.com/images/0879561ba7b9af5a986f56dd470151ab2e6bc23c-65x65.jpeg,Stony Brook University,United States,77,19446,335
+524,317,Stefano Soatto,https://s.research.com/images/04aa8b964d7b3ed2dc84ce2bb50467baec69db15-65x65.jpeg,University of California,Los Angeles,77,24165,337
+525,316,James A. Landay,https://s.research.com/images/49e03e638c2493c0bcaae9e9c0362279d1b17256-65x65.jpeg,Stanford University,United States,77,25440,206
+526,42,Shipeng Li,https://s.research.com/images/a8e7f90c989a20fcaf7a394d29ba330a19fa46de-65x65.jpeg,Chinese University of Hong Kong,Shenzhen,77,19176,385
+527,319,Bhaskar Krishnamachari,https://s.research.com/images/093a6427948a3600c382c69b02dd7d347ab6eb9d-65x65.jpeg,University of Southern California,United States,77,27311,320
+528,7,Jocelyn Chanussot,https://s.research.com/images/9cc65a3fa12022b41958f5b8d282fb1dc4ffdc08-65x65.jpeg,Grenoble Alpes University,France,77,28383,463
+529,322,Stan Sclaroff,https://s.research.com/images/fbf78a23aaf85a3ebafa78581c047815e06c2341-65x65.jpeg,Boston University,United States,77,25765,240
+530,321,Daniel Klein,https://s.research.com/images/97b156095a8b42b9e703889f71fbe93df31ae7c8-65x65.jpeg,University of California,Berkeley,77,31702,195
+531,323,Peter Brusilovsky,https://s.research.com/images/3ff4df80ec6c80708f33d4d19a67f122f8c20268-65x65.jpeg,University of Pittsburgh,United States,77,32144,418
+532,330,Roy H. Campbell,https://s.research.com/images/f8d9d05dacdca03b445b1f7606c9bf27968a186c-65x65.jpeg,University of Illinois at Urbana-Champaign,United States,77,23908,373
+533,329,Muriel Medard,https://s.research.com/images/e21569729e10b40d509d3c39b04b5c79a23810ed-65x65.png,MIT,United States,77,38018,524
+534,328,Paramvir Bahl,https://s.research.com/images/85033016ade7cbb03f2d87d6605fbb0d700c1ae4-65x65.jpeg,Microsoft (United States),United States,77,46695,136
+535,327,Jan Kautz,https://s.research.com/images/ae2d4468ce617172dfc8911b4a9958209c264a87-65x65.jpeg,Nvidia (United States),United States,77,29586,276
+536,320,Stephane H. Maes,https://s.research.com/images/7035675c35861ea5629b04b53b36fd3aa9c39b03-65x65.jpeg,Hewlett-Packard (United States),United States,77,21956,201
+537,21,Wolfgang Nejdl,https://s.research.com/images/bbfc5aa1a1e002defbb08369bf2d6448093ee99a-65x65.jpeg,University of Hannover,Germany,77,21355,406
+538,324,Philip A. Bernstein,https://s.research.com/images/72f57147288284382ea0f6df8e3f82e8463216ba-65x65.gif,Microsoft (United States),United States,77,39411,203
+539,33,Ingemar J. Cox,https://s.research.com/images/c63f173291073078a08cc83f32fc20b320bcb3f8-65x65.jpeg,University College London,United Kingdom,77,42737,230
+540,325,Thomas G. Dietterich,https://s.research.com/images/3677b885b9f779608f1d9264a7952b0e564fc39f-65x65.png,Oregon State University,United States,77,47111,206
+541,326,James Glass,https://s.research.com/images/b2abe8d1454d7724b4b28b0d346fc4bf2ad1bc42-65x65.jpeg,MIT,United States,77,19835,372
+542,17,Gustavo Alonso,https://s.research.com/images/671505c76b8d9d7ec49e9e51b8d0d0b3b5d38d89-65x65.jpeg,ETH Zurich,Switzerland,77,20768,290
+543,44,Xiang Bai,https://s.research.com/images/e8f0b2268f890a90415e5e6c25e701f300ef8e63-65x65.jpeg,Huazhong University of Science and Technology,China,77,23151,242
+544,43,Dong Yu,https://s.research.com/images/3b6ba7ddc49c317f7984565086adef34c4187376-65x65.jpeg,Tencent (China),China,77,46119,281
+545,331,Arthur C. Graesser,https://s.research.com/images/877d373361ab8678b271e625d036c69880de996f-65x65.jpeg,University of Memphis,United States,76,29298,322
+546,332,Yaakov Bar-Shalom,https://s.research.com/images/17b083ff736339f2642675672bf096b2825db49d-65x65.jpeg,University of Connecticut,United States,76,49331,382
+547,333,James Demmel,https://s.research.com/images/64842541b1cb233d5fbd717b38d80654070c9d3a-65x65.png,University of California,Berkeley,76,28985,262
+548,334,Donald E. Knuth,https://s.research.com/images/34f7e6352ca857a6bef8c735b9d0f38b745bb402-65x65.jpeg,Stanford University,United States,76,55582,180
+549,22,Jan Peters,https://s.research.com/images/c27eff0708b870cff7a84e1f82f457b2187bc456-65x65.jpeg,TU Darmstadt,Germany,76,26428,386
+550,21,Yiyu Yao,https://s.research.com/images/2dcb0cfb7840c67ea438c2e94ace128891242116-65x65.jpeg,University of Regina,Canada,76,20043,317
+551,335,Victor Lesser,https://s.research.com/images/bcfaa31756d7d59265251167286fe393e6f66a5b-65x65.jpeg,University of Massachusetts Amherst,United States,76,23258,327
+552,336,Silvio Micali,https://s.research.com/images/59fba9008c9261f6d4c154e6da8af6dc61c17750-65x65.jpeg,MIT,United States,76,39117,133
+553,34,David J. Hawkes,https://s.research.com/images/9117685a32d9d34b5bf928c650ca4831bb93344c-65x65.jpeg,University College London,United Kingdom,76,32653,378
+554,338,Michael L. Littman,https://s.research.com/images/d83b7ec5f71ce2018fc8ce73206b8e5d3a287814-65x65.jpeg,Brown University,United States,76,37304,213
+555,35,Yvonne Rogers,https://s.research.com/images/a87557f3109bf4023c3ced84d59c73e2f96c7b76-65x65.jpeg,University College London,United Kingdom,76,47963,245
+556,337,René Vidal,https://s.research.com/images/4211a8f2317614e0576672236e11af9aea1c333e-65x65.jpeg,Johns Hopkins University,United States,76,24830,252
+557,339,Adam Soroca,https://research.com/images/placeholder-scholar.svg,Millennial Media LLC,United States,76,20550,87
+558,36,Georg Gottlob,https://s.research.com/images/a47733787a08d91b046b4656cbb02829546f468a-65x65.jpeg,University of Oxford,United Kingdom,76,26117,314
+559,340,Demetri Terzopoulos,https://s.research.com/images/a99c0c36b0e13dcc98508a8f3fdb4d91c51d10d7-65x65.jpeg,University of California,Los Angeles,76,62725,239
+560,342,Avrim Blum,https://s.research.com/images/5455791d3dfd872fdccbff3ea017df6256accd8a-65x65.jpeg,Toyota Technological Institute at Chicago,United States,76,37001,170
+561,341,David Garlan,https://s.research.com/images/aa8e75ae2df4e2b3c650618e10c71aed3657ef6e-65x65.jpeg,Carnegie Mellon University,United States,76,38961,297
+562,45,Wangmeng Zuo,https://s.research.com/images/4f80a0433a165011c74519c904e179c87e2cfe36-65x65.jpeg,Harbin Institute of Technology,China,76,26231,335
+563,344,Tian He,https://s.research.com/images/fce3356f64705ac16e83800be9ae4fce2db4745c-65x65.jpeg,University of Minnesota,United States,76,28721,259
+564,343,Ravi Sandhu,https://s.research.com/images/50bf1113633f48a545c31ef76a6556c687b54230-65x65.jpeg,The University of Texas at San Antonio,United States,76,41817,306
+565,347,Leandros Tassiulas,https://s.research.com/images/b1264cb1b432aad00cf4afb173b76c52810601f8-65x65.jpeg,Yale University,United States,76,30729,409
+566,346,B.S. Manjunath,https://s.research.com/images/3f01fb57a7ce5511c912ce712ae9b404b57c532a-65x65.jpeg,University of California,Santa Barbara,76,40701,344
+567,345,Anind K. Dey,https://s.research.com/images/b779c6d58b4cd325ba6f040af91ea802188dd295-65x65.jpeg,University of Washington,United States,76,45923,271
+568,46,Tao Mei,https://s.research.com/images/9eac610308d2cebdaf0994e9c4c29bd8e2f66c0b-65x65.jpeg,Jingdong (China),China,76,21013,371
+569,349,Yun Fu,https://s.research.com/images/7d0a8093756330ce80d2efd60708d96dee36ecc0-65x65.jpeg,Northeastern University,United States,76,22982,406
+570,47,Yong Rui,https://s.research.com/images/6110b09568c55309fc82516ed5ad5f8481dc3b1d-65x65.jpeg,Lenovo (China),China,76,24287,254
+571,22,Rongxing Lu,https://s.research.com/images/5f5f00632f859ea280d109fe120dc20e798a5a2f-65x65.jpeg,University of New Brunswick,Canada,76,22605,392
+572,8,Serge Abiteboul,https://s.research.com/images/549b5102b4561693a6e72d17171f4bedcb52e580-65x65.jpeg,French Institute for Research in Computer Science and Automation - INRIA,France,76,32995,198
+573,351,John R. Smith,https://s.research.com/images/4705246bee95d5f59a7b1ef7dc3f4d6ec5b58e9e-65x65.jpeg,IBM (United States),United States,76,24651,326
+574,1,gonzalo navarro,https://s.research.com/images/b791f56c75f53b23bb10b49e257a5f5a87eea693-65x65.png,University of Chile,Chile,76,25071,428
+575,350,Chunming Qiao,https://s.research.com/images/489f213ab41b31d85525510059579eed54d08427-65x65.jpeg,University at Buffalo,State University of New York,76,22418,409
+576,348,Chin-Hui Lee,https://s.research.com/images/39be4d887e5738c3c0caf91df4e10fbe3452c791-65x65.jpeg,Georgia Institute of Technology,United States,76,23806,461
+577,352,Stefan Schaal,https://s.research.com/images/c58378942a7e30e3c0279d19bd8ec6332b717b25-65x65.jpeg,University of Southern California,United States,75,29335,211
+578,353,Barry Smith,https://s.research.com/images/dbdce1f05b433028fd1ce6b5c7954a196eefce3f-65x65.jpeg,University at Buffalo,State University of New York,75,22767,271
+579,354,Eero P. Simoncelli,https://s.research.com/images/f36d44df5b97278ad3f71303eaabc3eebd542ffc-65x65.jpeg,New York University,United States,75,76418,186
+580,355,Edward R. Dougherty,https://s.research.com/images/861ac8d79594ea15c59e911a3c93ccef0780199a-65x65.jpeg,Texas A&M University,United States,75,23178,479
+581,2,Heikki Mannila,https://s.research.com/images/32d9c306c16f1cf738cd44d21cb1c6e3828243fc-65x65.jpeg,Aalto University,Finland,75,37140,228
+582,2,Erol Gelenbe,https://s.research.com/images/1197df8822084ae2812b099fa417f7cde0768b44-65x65.jpeg,Institute of Theoretical and Applied Informatics,Poland,75,20381,457
+583,356,Louis B. Rosenberg,https://s.research.com/images/142ccd1168f9794999bce83ade24a67c4d84137f-65x65.jpeg,Unanimous AI,United States,75,25189,120
+584,23,F. Richard Yu,https://s.research.com/images/baf00fc35ceb406807fa522a63429710aef0893a-65x65.jpeg,Carleton University,Canada,75,27948,437
+585,359,Jaime G. Carbonell,https://s.research.com/images/ac468eafd027ba12b894aeec233e06432dc99aba-65x65.jpeg,Carnegie Mellon University,United States,75,33161,384
+586,357,Barry Boehm,https://s.research.com/images/ae6be94db59b583f5b1c1e236fcb806d454d80bb-65x65.gif,University of Southern California,United States,75,58839,354
+587,358,Mark A. Malamud,https://s.research.com/images/4c059c244684254b288079145d3b6355781fb126-65x65.jpeg,Microsoft (United States),United States,75,19671,553
+588,360,Fan Chung,https://s.research.com/images/dcfe0abe19603c4199c82f8de5381ab16ae32aca-65x65.jpeg,University of California,San Diego,75,30217,234
+589,24,Kurt Mehlhorn,https://s.research.com/images/9142c676e9c85123d69bbca245146aaf3e9fb6c4-65x65.jpeg,Max Planck Institute for Informatics,Germany,75,23618,328
+590,9,Jean Ponce,https://s.research.com/images/afdab1d1f45ad002e2a01fc8404389bdd5ea107c-65x65.jpeg,École Normale Supérieure,France,75,57475,198
+591,23,Patrick Baudisch,https://s.research.com/images/063d4909b9b1feb0b8c9c3a66ee51edd5dd4431a-65x65.jpeg,Hasso Plattner Institute,Germany,75,16786,185
+592,48,Licheng Jiao,https://s.research.com/images/e372a880b3395051b32f4623b46a40732844e7d8-65x65.jpeg,Xidian University,China,75,26145,1099
+593,362,Alan Frieze,https://s.research.com/images/f6dfa6ad1bcbcf2cca33da9e413611dff1c14b79-65x65.png,Carnegie Mellon University,United States,75,21958,388
+594,361,Edward J. Delp,https://s.research.com/images/fd8fef5693d9b45c1c771df7933df13865aa8ec2-65x65.jpeg,Purdue University West Lafayette,United States,75,22748,554
+595,366,Leslie Lamport,https://s.research.com/images/f3298ca016e382dfbf45d83b99c74c646df6dcff-65x65.jpeg,Microsoft (United States),United States,75,99694,169
+596,37,Mark Handley,https://s.research.com/images/2ce59b487b114a9ef27da308e4c286ac08a2ee2d-65x65.jpeg,University College London,United Kingdom,75,58563,137
+597,363,Eric Brewer,https://s.research.com/images/257c84fa7be123d5de05dd1aad230340ab315727-65x65.png,University of California,Berkeley,75,31225,161
+598,10,Kian-Lee Tan,https://research.com/images/placeholder-scholar.svg,National University of Singapore,Singapore,75,19555,390
+599,364,Andrew Fitzgibbon,https://s.research.com/images/73053be94f0ac3ea6b940cda04987288edc30299-65x65.jpeg,Microsoft (United States),United States,75,43597,201
+600,365,Craig A. Knoblock,https://s.research.com/images/d8ff25f68053c94a9f8142e15ec3873a75f45130-65x65.jpeg,University of Southern California,United States,75,19365,291
+601,49,Meng Wang,https://s.research.com/images/9b3eea0b65e265481208e496942939e76b24c4ab-65x65.jpeg,Hefei University of Technology,China,75,19363,354
+602,368,Yang Xiao,https://s.research.com/images/7fcce32f909a8d439e5c1abb63842fd879206acc-65x65.png,University of Alabama,United States,75,21690,451
+603,369,Daniel P. W. Ellis,https://s.research.com/images/2922035d80805dd68ad66465d05df335fc0da47c-65x65.jpeg,Google (United States),United States,75,24846,262
+604,367,Steven Feiner,https://s.research.com/images/d46abe2d0773592c6be099b54212f3addd5b06ff-65x65.jpeg,Columbia University,United States,75,26639,256
+605,370,Ellen M. Voorhees,https://s.research.com/images/fa1975fa153eab80e745dd46eb572f0e04edee94-65x65.jpeg,National Institute of Standards and Technology,United States,75,30573,155
+606,371,Rajeev Rastogi,https://s.research.com/images/e4bff52a59535ffcc1b8417462bac83c17aa3efe-65x65.jpeg,Amazon (United States),United States,75,35858,219
+607,372,Geoffrey B. Rhoads,https://s.research.com/images/7bfdc00848e5191e76da1bdf406f519d7e17182b-65x65.jpeg,Digimarc (United States),United States,75,25004,116
+608,374,John N. Tsitsiklis,https://s.research.com/images/87874950f2679cf21db8754bd2723c45c86774d6-65x65.gif,MIT,United States,74,60146,179
+609,373,Arvind Krishnamurthy,https://s.research.com/images/85bd01c12e7638ba124b65668fd7a78a247af689-65x65.png,University of Washington,United States,74,20294,188
+610,10,Yonina C. Eldar,https://s.research.com/images/6fe9d5aa3ec1ac3b3286dace00cdd71f0b3386db-65x65.jpeg,Weizmann Institute of Science,Israel,74,26366,484
+611,375,Andrew B. Kahng,https://s.research.com/images/9407e23977d2d35d4fa3aab9558f90c81b13f2ce-65x65.jpeg,University of California,San Diego,74,20562,313
+612,18,G. De Micheli,https://s.research.com/images/c48c419bff60440c33de146fbda63323eaebad79-65x65.jpeg,École Polytechnique Fédérale de Lausanne,Switzerland,74,23815,179
+613,8,Richard Hartley,https://s.research.com/images/a2eb08b356a3f29147d547f3d5d8926637248b6e-65x65.jpeg,Australian National University,Australia,74,68201,283
+614,376,Walid Saad,https://s.research.com/images/6f95849ad512ab782e4e8479eff9cc5af6340037-65x65.jpeg,Virginia Tech,United States,74,23036,409
+615,25,Jan Mendling,https://s.research.com/images/3fcdf4dc02bef22024e1a84780207013c0f88d59-65x65.jpeg,Humboldt-Universität zu Berlin,Germany,74,18845,301
+616,377,Anand Raghunathan,https://s.research.com/images/9c9a3d05c2a971f872e58035d835b3caeb391e70-65x65.jpeg,Purdue University West Lafayette,United States,74,18551,296
+617,379,Dennis Doughty,https://s.research.com/images/90c7a44c787098a0055d107fe150ddd071fd95f4-65x65.jpeg,Lola Travel Company Inc,United States,74,19643,83
+618,378,Carlos Guestrin,https://s.research.com/images/53f38a34844637a9d67ff9f514bb58b6223a1db2-65x65.jpeg,University of Washington,United States,74,51869,150
+619,380,Diane J. Cook,https://s.research.com/images/2cd6c99b50ddbb9dc2778e638f8b428719e8214e-65x65.jpeg,Washington State University,United States,74,25005,369
+620,51,Jie Tang,https://s.research.com/images/3f14f4cface7489418b20529922a4a7212578909-65x65.jpeg,Tsinghua University,China,74,19047,349
+621,381,Honglak Lee,https://s.research.com/images/41706d7bfe4413b2c21d7baa7a47a7031fba753d-65x65.jpeg,University of Michigan–Ann Arbor,United States,74,40768,163
+622,38,Timothy F. Cootes,https://s.research.com/images/dc6812d6d716c3d1304b9350d94bf43c2b4e9854-65x65.jpeg,University of Manchester,United Kingdom,74,45229,227
+623,383,Devi Parikh,https://s.research.com/images/68424d75cb6fd8d0c3f7433a6f24912c128361a7-65x65.jpeg,Facebook (United States),United States,74,41972,199
+624,382,Margaret Martonosi,https://s.research.com/images/9628bf0c86d97e2ac178ce1ba67e8260cd9e2b13-65x65.png,Princeton University,United States,74,29174,223
+625,50,Hongyuan Zha,https://s.research.com/images/aa5f6fedaa5319aac2352f3016aed5ec36afdeea-65x65.png,Chinese University of Hong Kong,Shenzhen,74,21190,284
+626,4,Maarten de Rijke,https://s.research.com/images/38c954f8158ba3b06cbc3564bdc7c3ad51127706-65x65.jpeg,University of Amsterdam,Netherlands,74,19706,544
+627,385,Miodrag Potkonjak,https://s.research.com/images/067c393fb0f72fb104d93e0ec0cb352b33a05c8d-65x65.gif,University of California,Los Angeles,74,27344,401
+628,384,Rada Mihalcea,https://research.com/images/placeholder-scholar.svg,University of Michigan–Ann Arbor,United States,74,26445,253
+629,388,Jason Hong,https://s.research.com/images/a3e91cb419dc4cdc1e5acf0a8a0205c10ed90a14-65x65.jpeg,Carnegie Mellon University,United States,74,26938,217
+630,387,Cynthia Dwork,https://s.research.com/images/bf71d7e0bf6ec28f63302b3f85e4362c49189938-65x65.jpeg,Harvard University,United States,74,54078,152
+631,386,Henry Fuchs,https://s.research.com/images/00226d1de6de1a71f7659e8db4606ec8d11cb001-65x65.jpeg,University of North Carolina at Chapel Hill,United States,74,21383,245
+632,39,Mark S. Nixon,https://s.research.com/images/5bfaf3098436721d843fb9ac0c1d2efa7b15a1b8-65x65.jpeg,University of Southampton,United Kingdom,74,19098,383
+633,6,Diego Calvanese,https://s.research.com/images/67508fde704d8d2fdafef89f7081ae0779a2ec81-65x65.jpeg,Free University of Bozen-Bolzano,Italy,74,37713,360
+634,6,Dieter Schmalstieg,https://s.research.com/images/b2e9cdd4fc348ed29faa9fcb82f4853ac40067ef-65x65.jpeg,Graz University of Technology,Austria,74,21403,430
+635,19,Rachid Guerraoui,https://s.research.com/images/a33bace15114003a155fefe9b67acd0a3114eb40-65x65.jpeg,École Polytechnique Fédérale de Lausanne,Switzerland,74,25289,431
+636,12,Weisi Lin,https://s.research.com/images/04579c21dc942415d7e0f6f049963531ca8bbc27-65x65.jpeg,Nanyang Technological University,Singapore,74,19269,468
+637,391,Nick Feamster,https://s.research.com/images/1c9996a6375dbd59ff4a852566f90b331f77452b-65x65.jpeg,University of Chicago,United States,74,22720,253
+638,392,Denys Poshyvanyk,https://s.research.com/images/8b9217e3bc6799f5b1e76594f6007d1c9bd160af-65x65.jpeg,William & Mary,United States,74,15011,192
+639,390,Scott Mahlke,https://s.research.com/images/993bc53aa4ea6fc673c360787a23fd0d1a86d573-65x65.jpeg,University of Michigan–Ann Arbor,United States,74,17473,251
+640,393,Ling Liu,https://s.research.com/images/4d44bfc2dccfbaab1074ddc65676bb745a3398d3-65x65.jpeg,Georgia Institute of Technology,United States,74,25702,486
+641,11,David Lo,https://s.research.com/images/68e78a110da45a462bc750a0ba6b7a3c339c3677-65x65.jpeg,Singapore Management University,Singapore,74,17606,404
+642,13,Jiashi Feng,https://s.research.com/images/a17e4fbdcff560acfd867ac892010214d16d6028-65x65.jpeg,National University of Singapore,Singapore,74,19539,299
+643,389,Kwan-Liu Ma,https://s.research.com/images/1725aae8ddbd4c0e2d430fe3b9b0e26e1653a207-65x65.jpeg,University of California,Davis,74,17459,434
+644,40,Rolf Apweiler,https://s.research.com/images/afcb8f39f21de7c7120992d99b42432a66e72701-65x65.jpeg,European Bioinformatics Institute,United Kingdom,73,60695,164
+645,24,Aaron Fenster,https://s.research.com/images/b4b7e0466eaf1fbd8afda17d94f6bb21f89c5dbd-65x65.png,University of Western Ontario,Canada,73,16545,389
+646,394,Jim Gray,https://s.research.com/images/0bfa7549b9e272997b0a259cee0a2b8fe8b23d1c-65x65.jpeg,Microsoft (United States),United States,73,45761,184
+647,4,Johan A. K. Suykens,https://s.research.com/images/a3499e7dc332bf495802559e140298f361d66ffc-65x65.jpeg,KU Leuven,Belgium,73,37879,408
+648,52,Yong Deng,https://s.research.com/images/d8323fdac704608d319a6c671aa2f848ca4f2a3a-65x65.png,Southwest University,China,73,15358,358
+649,11,Shlomo Shamai,https://s.research.com/images/0d5ff40804db384cadd03f837f0c3d6cf1ea81da-65x65.png,Technion – Israel Institute of Technology,Israel,73,27715,412
+650,7,Michele Zorzi,https://s.research.com/images/e5c708f7d26e0b935c7cfcb8c7d94f18d465ba67-65x65.jpeg,University of Padua,Italy,73,30209,585
+651,9,Hugh Durrant-Whyte,https://s.research.com/images/76fb5000ec7818e432bab72c8d6eae48c5956388-65x65.jpeg,University of Sydney,Australia,73,36527,235
+652,397,Keshab K. Parhi,https://s.research.com/images/afb16e8a22a521c3b107160f271ccb03731628b9-65x65.jpeg,University of Minnesota,United States,73,19779,498
+653,396,Trevor Mudge,https://s.research.com/images/a9e7c204d336bcef459adb853cf25196939ecc31-65x65.jpeg,University of Michigan–Ann Arbor,United States,73,27690,334
+654,398,Padhraic Smyth,https://s.research.com/images/faff5c6f5f09fee8bfebffb11787f026a4e182e2-65x65.jpeg,University of California,Irvine,73,54278,232
+655,399,Jeffrey A. Fessler,https://s.research.com/images/cd5958431756f31f436347e56bd01c36777dae87-65x65.jpeg,University of Michigan–Ann Arbor,United States,73,23475,445
+656,395,Kurt Keutzer,https://s.research.com/images/07f0497bec897fbdb4604f99bb6d253223b632c2-65x65.jpeg,University of California,Berkeley,73,19828,267
+657,401,Pattie Maes,https://s.research.com/images/0ef1c256b36f7acc082c54a2e45c6893f70e93dc-65x65.jpeg,MIT,United States,73,40323,278
+658,402,Joseph A. Konstan,https://s.research.com/images/2bfea460dbd6a701893a924dcb37e0489c4c8233-65x65.jpeg,University of Minnesota,United States,73,65080,175
+659,3,Katsushi Ikeuchi,https://s.research.com/images/e6cc52a8f6d28364e9aec090ad889717a4152f56-65x65.jpeg,University of Tokyo,Japan,73,19485,443
+660,400,William M. Wells,https://s.research.com/images/7ef066eccf1e3937def1bb121d3f9a6fc9c5918c-65x65.png,Brigham and Women's Hospital,United States,73,34165,279
+661,41,Nigel Shadbolt,https://s.research.com/images/1eec6f31ba17896426325d3d6950089b4f193dd1-65x65.jpeg,University of Oxford,United Kingdom,73,23323,383
+662,405,Stephen O. Lemay,https://research.com/images/placeholder-scholar.svg,Apple (United States),United States,73,25452,168
+663,403,Geoffrey C. Fox,https://s.research.com/images/d971fd84037c3e88b31a895ab616cf4ac5e98ef5-65x65.jpeg,Indiana University,United States,73,25649,643
+664,404,Gregory R. Ganger,https://s.research.com/images/aa06fc372f67e09eb0e386cd4197926dc4ab2571-65x65.png,Carnegie Mellon University,United States,73,17456,226
+665,53,Liang Wang,https://s.research.com/images/4433adfbe898b2c965e2de6b761a626ecb37f73a-65x65.jpeg,Chinese Academy of Sciences,China,73,24852,327
+666,2,Barry Smyth,https://s.research.com/images/f6ba368ea8768e04207d61794169ff19c5d5c4ad-65x65.jpeg,University College Dublin,Ireland,73,18490,397
+667,407,Ness B. Shroff,https://s.research.com/images/adf100d1c815a0d6c0061787e99f3375b8950c07-65x65.jpeg,The Ohio State University,United States,73,21570,353
+668,406,Jorey Ramer,https://s.research.com/images/4bdf369c8ac4fac51c5053c73a3a8d2bc0b15f83-65x65.png,Super Home Inc.,United States,73,19461,82
+669,409,Bernard Chazelle,https://s.research.com/images/2225a9cee88cf0e899fb55e866f80ebc16c00579-65x65.jpeg,Princeton University,United States,73,22034,153
+670,55,Chris Ding,https://s.research.com/images/abfcf17becd51ce92f8ce1820de9966e1fe07773-65x65.jpeg,Chinese University of Hong Kong,Shenzhen,73,35948,239
+671,54,Hisao Ishibuchi,https://s.research.com/images/012e8c115d5990849b6d8bcf3b3f6b05071abcb4-65x65.jpeg,Southern University of Science and Technology,China,73,26330,536
+672,408,Mehryar Mohri,https://s.research.com/images/eb68641b25cac0d7130ffe75e7f3107a2e6da2cc-65x65.jpeg,Google (United States),United States,73,24638,223
+673,412,Alok Choudhary,https://s.research.com/images/3dcda373cc46a1ff88113cb8ffe640d0ddb64dfc-65x65.jpeg,Northwestern University,United States,73,22079,537
+674,56,Lei Zhang,https://s.research.com/images/c06bb56b5e5607ead6687c3be3d69318c4d700ec-65x65.jpeg,International Digital Economy Academy,China,73,20132,280
+675,410,Mahmut Kandemir,https://s.research.com/images/3fbc7ed5277284a572beb0ad880a110c7739fde7-65x65.jpeg,Pennsylvania State University,United States,73,21927,663
+676,413,Norman P. Jouppi,https://s.research.com/images/02ddefde760e11b260b326a5719fbbfc484983a4-65x65.jpeg,Google (United States),United States,73,30215,161
+677,411,Desney S. Tan,https://s.research.com/images/a656c419cde80f980123b2f78440c4ffdcccf574-65x65.jpeg,Microsoft (United States),United States,73,15530,171
+678,42,Steve Benford,https://s.research.com/images/5fc32805d8a4287d6a1d8cc3e55d4ed9777e36af-65x65.jpeg,University of Nottingham,United Kingdom,73,19068,330
+679,3,Eran Steinberg,https://research.com/images/placeholder-scholar.svg,National University of Ireland,Galway,73,13246,97
+680,8,Giuseppe De Giacomo,https://s.research.com/images/be36ba7402fdefbbc57a499361d2cb5e9d9e48e3-65x65.jpeg,Sapienza University of Rome,Italy,73,19904,259
+681,43,Alan Burns,https://s.research.com/images/cea86adf69b6829dc47e972dd6cc1898be97ed0d-65x65.jpeg,University of York,United Kingdom,73,26561,358
+682,414,Regina Barzilay,https://s.research.com/images/27e526d2e723848affe1afb5de9f608f7dd2291c-65x65.jpeg,MIT,United States,73,21480,204
+683,417,Martin Rinard,https://s.research.com/images/f1e15edaf64a0de82938715f6ae9513a994d1e27-65x65.jpeg,MIT,United States,73,19496,290
+684,416,Kyunghyun Cho,https://s.research.com/images/8cf5b57b5bf2ab9af71aba11d1c9ae8cf17f6001-65x65.jpeg,New York University,United States,73,86587,208
+685,20,Touradj Ebrahimi,https://s.research.com/images/101d51bc1e7669c15387680596d8495bd3bdc5e6-65x65.jpeg,École Polytechnique Fédérale de Lausanne,Switzerland,73,26246,477
+686,26,Stefan Decker,https://s.research.com/images/83349d4a04afcada73d43c1a29fdc4f9a830494b-65x65.jpeg,RWTH Aachen University,Germany,73,24590,291
+687,9,Fabio Roli,https://s.research.com/images/b863cba2fbeb8c2b15c4a47302eff9e7c8968373-65x65.jpeg,University of Genoa,Italy,73,19290,315
+688,14,Steven C. H. Hoi,https://s.research.com/images/03a8e775f65e39041c9e6696e08e107ba7ffd4b5-65x65.jpeg,Singapore Management University,Singapore,73,17337,287
+689,25,Raouf Boutaba,https://s.research.com/images/10bea5dc45db666d1b0108e0f9e1b42f7f380875-65x65.jpeg,University of Waterloo,Canada,73,29128,422
+690,26,Ching Y. Suen,https://s.research.com/images/fbd88b8c9d1444e876e8a1fa4884814b808da32c-65x65.png,Concordia University,Canada,73,29878,436
+691,3,Muhammad Khurram Khan,https://s.research.com/images/6d28e15392b3427bc806a7d462434a16888e45bb-65x65.jpeg,King Saud University,Saudi Arabia,73,15752,389
+692,418,Scott E. Hudson,https://s.research.com/images/829efff423d5a6f766e59e3f5b487df991cc8ea6-65x65.jpeg,Carnegie Mellon University,United States,73,15668,208
+693,415,Jingdong Wang,https://s.research.com/images/e055d63e97b611db151696b8adb06aa616762043-65x65.jpeg,Microsoft (United States),United States,73,26986,234
+694,419,Somesh Jha,https://s.research.com/images/a0a1f45db462568cf828deac54e8b2a02ec57de3-65x65.jpeg,University of Wisconsin–Madison,United States,73,32339,244
+695,420,Rahul Sukthankar,https://s.research.com/images/0d02c5b45d40181dec70621b0fc5408498670910-65x65.jpeg,Google (United States),United States,73,31444,206
+696,421,Hiroshi Ishii,https://s.research.com/images/8c5728a40e280ab51f1142b5d911a2bd3d0a70b0-65x65.jpeg,MIT,United States,72,29823,256
+697,422,David Tse,https://s.research.com/images/599ae3a0df3abcfc7990616e4a03324b24375a69-65x65.png,Stanford University,United States,72,67081,220
+698,423,Tommi S. Jaakkola,https://s.research.com/images/0d14e00f9adde761f474a84fc54efe74048a26d8-65x65.jpeg,MIT,United States,72,27760,188
+699,21,Andreas Krause,https://s.research.com/images/ac4cd6543571aa015acfcc562bf61edf343a5c0e-65x65.jpeg,ETH Zurich,Switzerland,72,24149,220
+700,424,Rajesh Gupta,https://s.research.com/images/1379d9fb70dbc43c34f6318f4cdff697952bfc0e-65x65.jpeg,University of California,San Diego,72,19047,318
+701,425,Roberta L. Klatzky,https://s.research.com/images/64d73bc54c82314eae8ac5ca23e062bf89a64045-65x65.jpeg,Carnegie Mellon University,United States,72,19467,230
+702,426,Henry Kautz,https://s.research.com/images/ad08853730bae255ed9381481160ed426fcca195-65x65.jpeg,University of Rochester,United States,72,30607,168
+703,57,Yong Yu,https://s.research.com/images/172282d272a0391ce9aeba89cea3597907d1a3b0-65x65.jpeg,Shanghai Jiao Tong University,China,72,27788,341
+704,58,Lei Chen,https://s.research.com/images/9d7c869f59f88b55d092c2f47e707c59bbbc75f3-65x65.jpeg,Hong Kong University of Science and Technology,China,72,18086,466
+705,427,Ewa Deelman,https://s.research.com/images/ee314aeb248315cf9193293f477ce8d1e43e5574-65x65.jpeg,University of Southern California,United States,72,24461,256
+706,428,John Lafferty,https://s.research.com/images/7cb12412ac95428f431d21bd15e0fba57acdae57-65x65.jpeg,Yale University,United States,72,54872,131
+707,430,Baruch Awerbuch,https://s.research.com/images/db8d222b170575aab84e1e39f7edbdb1799fa49a-65x65.gif,Johns Hopkins University,United States,72,17507,173
+708,44,Ross Anderson,https://s.research.com/images/e47fff6fe7e3c5e3d27a4aec17f00c533eb12cfe-65x65.jpeg,University of Cambridge,United Kingdom,72,33903,195
+709,429,Garth A. Gibson,https://s.research.com/images/374ab866b35f93c6e2ff8e7c1e3ebf203c66ca43-65x65.jpeg,Carnegie Mellon University,United States,72,26206,185
+710,434,Robert W. Lord,https://research.com/images/placeholder-scholar.svg,Microsoft (United States),United States,72,17210,556
+711,432,Kadangode K. Ramakrishnan,https://s.research.com/images/ec78614c154cce5d20290c927472e41b2a82340c-65x65.jpeg,University of California,Riverside,72,23312,305
+712,431,Mary Jean Harrold,https://s.research.com/images/b7b08614b90f04504d2b29368456733cef0eb4c4-65x65.jpeg,Georgia Institute of Technology,United States,72,23873,146
+713,433,Christophe Diot,https://s.research.com/images/8705c3a875781a61ba60a9980769617dc7115284-65x65.jpeg,Google (United States),United States,72,27199,195
+714,436,Geoffrey M. Voelker,https://s.research.com/images/1aadb2bd156b1ae559ae8ff45faaa94fc81cbb16-65x65.jpeg,University of California,San Diego,72,26303,159
+715,437,Claire Cardie,https://s.research.com/images/937d47ce0434970ccd8485716e1cf7eb53c6b2ab-65x65.jpeg,Cornell University,United States,72,24296,181
+716,438,Nitin H. Vaidya,https://s.research.com/images/5d66d0793fba7b1b2b9d2e859710dafa14725ad0-65x65.png,Georgetown University,United States,72,39567,329
+717,435,Dharma P. Agrawal,https://s.research.com/images/4eeb5e340765d9bb3c5b28a0fff45324e256005a-65x65.jpeg,University of Cincinnati,United States,72,25642,547
+718,441,Bamshad Mobasher,https://s.research.com/images/81f524f519d6ffabcd44f6c089effbe974ba59fb-65x65.jpeg,DePaul University,United States,72,26911,195
+719,5,Jean-Jacques Quisquater,https://s.research.com/images/d4860bd36137af95d2550dce0dd5a8e871aec711-65x65.jpeg,Université Catholique de Louvain,Belgium,72,20689,246
+720,440,Zygmunt J. Haas,https://s.research.com/images/d4ca1694e43e17050301ae9a0bfb4db44e7be779-65x65.jpeg,Cornell University,United States,72,34836,225
+721,439,Maneesh Agrawala,https://s.research.com/images/2938e54deb8e51b6e3b08c211e2afc35cce3b506-65x65.jpeg,Stanford University,United States,72,18953,188
+722,444,John Heidemann,https://s.research.com/images/91ecf39537ee72cf88f0598bd145ab92616b5475-65x65.jpeg,University of Southern California,United States,72,51964,223
+723,443,Chenyang Lu,https://s.research.com/images/510ce53760326f3db48ada4d1b550e864fd8e9ab-65x65.jpeg,Washington University in St. Louis,United States,72,23748,246
+724,442,Phillip Rogaway,https://s.research.com/images/982bec1de8ecb5c2f71cfd3459f0f1047d5e42ad-65x65.gif,University of California,Davis,72,39621,116
+725,59,Xindong Wu,https://s.research.com/images/3e43c22bb71f33d134f8c0557aa1ce69f893ac82-65x65.jpeg,Hefei University of Technology,China,72,32442,510
+726,10,Willy Susilo,https://s.research.com/images/bcb82a2bb745fe54569f25f2cc5a86348966d3b3-65x65.jpeg,University of Wollongong,Australia,72,17895,570
+727,447,Arun Ross,https://s.research.com/images/967a03c18fefaa058734f458ccb89115fa9c52cb-65x65.jpeg,Michigan State University,United States,72,35577,270
+728,446,Haibin Ling,https://s.research.com/images/e4aa600515fcd108cda16b47994dd9430631124d-65x65.jpeg,Stony Brook University,United States,72,22083,303
+729,445,Ari Juels,https://s.research.com/images/be9e52849538c31914df88a84deba97ba34f6644-65x65.jpeg,Cornell University,United States,72,34221,150
+730,456,Andrew W. Senior,https://s.research.com/images/d15015b7a02a690fd79f3ec7867e8f1837b56873-65x65.png,Google (United States),United States,72,45025,173
+731,455,Peng Ning,https://s.research.com/images/af88026d2f6411c1b32ef5c0f8b89192fec3f7ce-65x65.jpeg,Google (United States),United States,72,29510,190
+732,454,Mostafa H. Ammar,https://s.research.com/images/d1d55df67055ca7af0c9197259e6b757224d6520-65x65.jpeg,Georgia Institute of Technology,United States,72,21145,284
+733,60,Hai Jin,https://s.research.com/images/c526ee14b6905a444ca0f62925f461c6818769c6-65x65.jpeg,Huazhong University of Science and Technology,China,72,21883,1143
+734,61,Huchuan Lu,https://s.research.com/images/663c13b5a0e1cfc6bcae18ea9e1cb4b65cc4c0d1-65x65.jpeg,Dalian University of Technology,China,72,29928,308
+735,7,Thomas Eiter,https://s.research.com/images/84a9365722ddfd64c103a61e2dc98468d0772bc0-65x65.jpeg,TU Wien,Austria,72,20617,345
+736,2,Dimitrios Gunopulos,https://s.research.com/images/aa5cad2976d58bbcebe26f3ca1b99ceaa109823e-65x65.jpeg,National and Kapodistrian University of Athens,Greece,72,24226,243
+737,27,Albrecht Schmidt,https://s.research.com/images/921f620a3217eecc08a19c38450c2fb83118e029-65x65.jpeg,Ludwig-Maximilians-Universität München,Germany,72,21926,460
+738,453,John Stasko,https://s.research.com/images/80450c976e13e4a257709f7d9505ad67d4dc3651-65x65.jpeg,Georgia Institute of Technology,United States,72,21997,248
+739,452,Larry L. Peterson,https://s.research.com/images/cdeec371bd7d21ff112baca615c45668fe774778-65x65.gif,Princeton University,United States,72,43984,140
+740,450,Henry M. Levy,https://s.research.com/images/9ef44f317c6783364876326166b27dfb56dfc7e3-65x65.jpeg,University of Washington,United States,72,27570,143
+741,448,Stephen Lin,https://s.research.com/images/3b855f3be45dcb286c2f73f7cf8e745b34a0ee82-65x65.jpeg,Microsoft (United States),United States,72,17808,191
+742,27,Konstantinos N. Plataniotis,https://s.research.com/images/53a5db811a59eb36d634d1a8a36812c3d5832dfc-65x65.jpeg,University of Toronto,Canada,72,19525,446
+743,449,Jeffrey Scott Vitter,https://s.research.com/images/22d41037ddb69eafe91c61476acf6d95b78f57d1-65x65.jpeg,University of Mississippi,United States,72,21177,259
+744,451,Mohammed J. Zaki,https://s.research.com/images/390b6c4de52af6b5a437bd7bf3541e7ffc6d8ebd-65x65.jpeg,Rensselaer Polytechnic Institute,United States,72,31638,236
+745,45,Giles M. Foody,https://s.research.com/images/0223fa5400a98dba67ceb0b1b506c0547eeca21d-65x65.jpeg,University of Nottingham,United Kingdom,71,24044,174
+746,457,John Canny,https://s.research.com/images/c57c1e8955c6b361b2414afe07cf489024f0f7f9-65x65.jpeg,University of California,Berkeley,71,60443,222
+747,458,Robert K. Brayton,https://s.research.com/images/554d99984a25f3933004c470b56263a1c67676d0-65x65.gif,University of California,Berkeley,71,23819,317
+748,2,Tingwen Huang,https://s.research.com/images/50acefab2b968560549cfd2788d5c9f26411b2eb-65x65.jpeg,Texas A&M University at Qatar,Qatar,71,15708,381
+749,10,Andrea Massa,https://s.research.com/images/14c613fb70aa9953cd5107e734f02c7d93eec47e-65x65.jpeg,University of Trento,Italy,71,13277,319
+750,11,Paolo Toth,https://s.research.com/images/1a27337f38876f2a375de582228f59741330fd50-65x65.jpeg,University of Bologna,Italy,71,22205,136
+751,5,Max Welling,https://s.research.com/images/c3dc31dd79e9a6f4c98311b17885fa5a5731351f-65x65.jpeg,University of Amsterdam,Netherlands,71,56597,233
+752,46,Sheng Chen,https://s.research.com/images/9a113507c2710f4c7d149b64439029e2e9adb51a-65x65.jpeg,University of Southampton,United Kingdom,71,24593,415
+753,459,Niraj K. Jha,https://s.research.com/images/5c0ef72808271c780928e139d8e6ad8420826bf4-65x65.jpeg,Princeton University,United States,71,20503,354
+754,461,R. Srikant,https://s.research.com/images/f1869c169a9970606362b3336420123b69ab5eb1-65x65.jpeg,University of Illinois at Urbana-Champaign,United States,71,27622,237
+755,11,Chin-Teng Lin,https://s.research.com/images/5571e3dc2b2508919f2e8f9cd27896834bacf0e7-65x65.jpeg,University of Technology Sydney,Australia,71,24007,451
+756,460,Robert E. Schapire,https://s.research.com/images/9562e074eeb89195d765bf668b917fc9a84c768a-65x65.jpeg,Microsoft (United States),United States,71,91920,148
+757,462,Leonard Kleinrock,https://s.research.com/images/e9faeaddbdb1df5080d0d651638efd122716ed58-65x65.jpeg,University of California,Los Angeles,71,28829,189
+758,464,Robert M. Gray,https://s.research.com/images/df1ab77f6b1a27b0d1435e36860336c177f6cdaa-65x65.gif,California Institute of Technology,United States,71,46961,252
+759,463,Joel H. Saltz,https://research.com/images/placeholder-scholar.svg,Stony Brook University,United States,71,18259,420
+760,22,Joachim M. Buhmann,https://s.research.com/images/be0b1cd5e112cfa1b4f2f0767007413fed85a2bd-65x65.jpeg,ETH Zurich,Switzerland,71,18891,248
+761,465,Marc Levoy,https://s.research.com/images/333b61acaa992ba31db78d76d3f765e9fee4f04d-65x65.jpeg,Google (United States),United States,71,49590,112
+762,47,John Shawe-Taylor,https://s.research.com/images/47597147db1e1020e82f1231311e31c747fcc8a7-65x65.png,University College London,United Kingdom,71,68365,362
+763,28,Anja Feldmann,https://s.research.com/images/c0157df88114f9601403ae4a9cc1e8eb72ed17f8-65x65.jpeg,Max Planck Society,Germany,71,18822,222
+764,48,Stephen Brewster,https://s.research.com/images/c1175d8366db63b3c5a6b88f3df0e1f4d00ab213-65x65.jpeg,University of Glasgow,United Kingdom,71,17331,359
+765,12,Justin Zobel,https://s.research.com/images/646f8ffa8adf7372f43f51422c0cb4b0f217b696-65x65.jpeg,University of Melbourne,Australia,71,19303,244
+766,23,Nadia Magnenat-Thalmann,https://s.research.com/images/fe98a45b6fa66487ffb53392e73aaaf3cb98564f-65x65.jpeg,University of Geneva,Switzerland,71,15659,410
+767,466,Jimeng Sun,https://s.research.com/images/dc0d7c1e3be2fa5aa5d1a206082cd4b403fcc838-65x65.jpeg,University of Illinois at Urbana-Champaign,United States,71,18905,264
+768,469,Thorsten Joachims,https://s.research.com/images/9bf9ca38aaca21bc7bc34ded0d8c1eca49e98c83-65x65.jpeg,Cornell University,United States,71,78078,164
+769,468,Marco Conti,https://s.research.com/images/95a0049352cd460a202f44b7430b16263ac7c228-65x65.jpeg,National Academies of Sciences,Engineering,71,30366,326
+770,49,Christopher J. Taylor,https://s.research.com/images/30a6bae94eee57c8354d0e85fc053472efb63cec-65x65.jpeg,University of Manchester,United Kingdom,71,32152,273
+771,467,Dimitri Kanevsky,https://s.research.com/images/2f511c5e8f34bed111f37c09b5c842e7ccca3b08-65x65.jpeg,Google (United States),United States,71,16082,251
+772,471,David Eppstein,https://s.research.com/images/a8e8058e9b1ae69a10b8204ca66f1744b76e0f82-65x65.jpeg,University of California,Irvine,71,20337,349
+773,12,Stefano Ceri,https://s.research.com/images/0d03d5842968fa7cb74516caa80612953cc71e13-65x65.png,Politecnico di Milano,Italy,71,25691,330
+774,64,Tao Xie,https://s.research.com/images/f93a7b8df508c30e52c050531bbadd52f289c1ef-65x65.jpeg,Peking University,China,71,15251,301
+775,62,Qionghai Dai,https://s.research.com/images/55e2e484a8532b3392c5f7beefc4854dfc05ba62-65x65.jpeg,Tsinghua University,China,71,15736,501
+776,470,Steven M. Seitz,https://s.research.com/images/58e881ba8ce3388da9fc4e623026c23c79f1b4f7-65x65.jpeg,University of Washington,United States,71,39989,160
+777,28,Carl Gutwin,https://s.research.com/images/ecae66805b66bcd04e232ee4aabf81ef48a5d8b5-65x65.png,University of Saskatchewan,Canada,71,19883,263
+778,63,Xiaofei He,https://s.research.com/images/b0f4572f8165a607bd8e2abc02efa16b79bcc8f9-65x65.jpeg,Zhejiang University,China,71,28315,205
+779,13,Fatih Porikli,https://s.research.com/images/3f1d94bc58554aeed9f546e46b4b465dc76a38c1-65x65.jpeg,Australian National University,Australia,71,28067,309
+780,6,François-Xavier Standaert,https://s.research.com/images/d72df3ab76d0c6a7f6da26af0b7a5e0298eb6c87-65x65.jpeg,Université Catholique de Louvain,Belgium,71,14395,257
+781,29,Zhou Wang,https://s.research.com/images/6ef3a6e25e22ca458eb4bb6cf0c94148e1b1bf27-65x65.jpeg,University of Waterloo,Canada,71,39876,223
+782,30,Laks V. S. Lakshmanan,https://s.research.com/images/0b53eecb94d0a2ed62eebf24efe385decaf205ba-65x65.jpeg,University of British Columbia,Canada,71,18076,193
+783,66,Liang Lin,https://s.research.com/images/defe41da73e6df07a87d223804b9ec6d44d837d9-65x65.jpeg,Sun Yat-sen University,China,71,18066,309
+784,67,Xiaokang Yang,https://s.research.com/images/2a59403289e6399d2cfbb7994e86845fdef7e348-65x65.jpeg,Shanghai Jiao Tong University,China,71,18305,416
+785,478,Cyrus Shahabi,https://s.research.com/images/6e6630a379f84b71284dfb518aba9fab36615c7b-65x65.jpeg,University of Southern California,United States,71,19198,383
+786,15,Robert H. Deng,https://s.research.com/images/e3809a082e734fcdfee7d3e70936be8a5b2e3eeb-65x65.jpeg,Singapore Management University,Singapore,71,17557,465
+787,13,Pierangela Samarati,https://s.research.com/images/4d621391b76d672b982f9f7e4e75a53f802514ff-65x65.png,University of Milan,Italy,71,27635,286
+788,477,Jeffrey Heer,https://s.research.com/images/bc8f485a234122169574162e2fdbecf2cd576c7f-65x65.jpeg,University of Washington,United States,71,24369,150
+789,476,P. Sadayappan,https://s.research.com/images/bca21f4d6f6bc47a596ceb16a663f28482c0197c-65x65.jpeg,University of Utah,United States,71,15738,337
+790,4,Alan F. Smeaton,https://s.research.com/images/6c6a7bc97cf1196bcb1990a74f37964cb91e4bc7-65x65.jpeg,Dublin City University,Ireland,71,19967,515
+791,475,Eytan Modiano,https://s.research.com/images/008d48ae407cca9dc7d4d3c8f66d967c8fcb15e9-65x65.png,MIT,United States,71,18149,288
+792,24,James R. Larus,https://s.research.com/images/2d74d1d662a050bd792b49d4954c49f40ab4167b-65x65.jpeg,École Polytechnique Fédérale de Lausanne,Switzerland,71,21827,182
+793,474,Ninghui Li,https://s.research.com/images/e704b5b59cbb95db5d1456be65a084abaf0fd5c3-65x65.jpeg,Purdue University West Lafayette,United States,71,21021,194
+794,12,Danny Dolev,https://s.research.com/images/b754cd3fab9916dc0525a3d268f3df6160b7fb05-65x65.jpeg,Hebrew University of Jerusalem,Israel,71,26955,255
+795,68,Shutao Li,https://s.research.com/images/43878abae147be20a89765656550403601ae7aa7-65x65.jpeg,Hunan University,China,71,21467,263
+796,65,Deng Cai,https://s.research.com/images/75a264844465e9482cf031ed79e06ebe56baa625-65x65.jpeg,Zhejiang University,China,71,27960,249
+797,473,David Salesin,https://s.research.com/images/1c44ff1336c73c7c3ed518d9d6dc83a36c455018-65x65.jpeg,Google (United States),United States,71,27633,122
+798,472,Haixun Wang,https://s.research.com/images/9aa9b58043a32747105d003e9771ae64c54778b3-65x65.jpeg,Instacart,United States,71,19072,246
+799,479,Christopher D. Wickens,https://s.research.com/images/738f48a19f889e94cbb45dca8383a1e8017fded6-65x65.jpeg,Colorado State University,United States,70,26694,299
+800,69,Ying-Chang Liang,https://s.research.com/images/4d85c4c44f2d30226125f467f96336c0fa09d9c8-65x65.jpeg,University of Electronic Science and Technology of China,China,70,23666,360
+801,6,Bram van Ginneken,https://s.research.com/images/265ca884fd4cfc27147f8035468bddc375b79ca0-65x65.jpeg,Radboud University Nijmegen,Netherlands,70,28613,231
+802,2,Oscar Castillo,https://s.research.com/images/fdb0712587cf14cd7b9266cc3788015a92e281f8-65x65.jpeg,Instituto Tecnológico de Tijuana,Mexico,70,17467,627
+803,31,Pierre Hansen,https://s.research.com/images/996b4bd446c87f77026614982b95eab4b1969562-65x65.jpeg,HEC Montréal,Canada,70,27350,313
+804,480,Jose M. F. Moura,https://s.research.com/images/3cd6fa36eda5be3618c7a880a43ea069b57ecd6e-65x65.gif,Carnegie Mellon University,United States,70,21315,379
+805,14,Peter Corke,https://s.research.com/images/e2fbccfa8d46b8125df800a411c9d645527b96fe-65x65.jpeg,Queensland University of Technology,Australia,70,28599,338
+806,481,Ron Graham,https://s.research.com/images/75157ab3e05a48a687e1acf6521d963058ded724-65x65.jpeg,University of California,San Diego,70,31870,263
+807,482,Edward H. Adelson,https://s.research.com/images/eae69a4f2ce26dbe9770c0d8e4aa41edadb1acda-65x65.jpeg,MIT,United States,70,48753,153
+808,483,Cynthia Breazeal,https://s.research.com/images/459b57c21eb717620e4cd3c16a4b0f073ff1d86d-65x65.jpeg,MIT,United States,70,21563,198
+809,484,Ronald Fagin,https://s.research.com/images/4a5c0015cd462a7cd247e3bd593f2a49b01ae26c-65x65.jpeg,IBM (United States),United States,70,37794,129
+810,486,Richard M. Leahy,https://s.research.com/images/c07f0492893c9cf3a7b06127ee5db241a197b488-65x65.jpeg,University of Southern California,United States,70,26540,295
+811,10,Kenneth A. Parulski,https://s.research.com/images/e324163bf320ea959d1291844215184baea0e2ce-65x65.jpeg,Kodak (France),France,70,15276,132
+812,25,Pierre Vandergheynst,https://s.research.com/images/eae90e615d75bb6f5429f4beb41df3a44a735388-65x65.jpeg,École Polytechnique Fédérale de Lausanne,Switzerland,70,29208,325
+813,485,Keith W. Ross,https://s.research.com/images/82e54d17264e55edb0fab8039bd78b0d8ce5965c-65x65.jpeg,New York University,United States,70,20526,188
+814,490,Louis-Philippe Morency,https://s.research.com/images/f2d627cd7b39fe1ee45f4c367780dc7e29465956-65x65.jpeg,Carnegie Mellon University,United States,70,18117,258
+815,489,Ruzena Bajcsy,https://s.research.com/images/c75f36ff20eab1b464e9bcd816aeed6f51c54ee8-65x65.jpeg,University of California,Berkeley,70,20968,359
+816,3,Ivan Damgård,https://s.research.com/images/24c3b80d3b79a28736d926d884dc652e63580068-65x65.jpeg,Aarhus University,Denmark,70,25633,215
+817,29,Christof Paar,https://s.research.com/images/5555321ec2ed2300d6d417e2fe86102730bce5b8-65x65.jpeg,Max Planck Society,Germany,70,23906,276
+818,8,Wolfgang Maass,https://s.research.com/images/3107261d8f7f59085aafdf0cda5ade34df78406a-65x65.jpeg,Graz University of Technology,Austria,70,19599,217
+819,488,Wojciech Matusik,https://s.research.com/images/0c13a23a7467b4d1a6efea38913fb5a704f756a8-65x65.jpeg,MIT,United States,70,17205,201
+820,487,Li Da Xu,https://s.research.com/images/9a950fa86216267e0d35165ece4e658f62a7da65-65x65.jpeg,Old Dominion University,United States,70,24549,184
+821,492,Marcel van Os,https://s.research.com/images/dca2b179946c5a0adb0acab661f91ecc86f98552-65x65.jpeg,Apple (United States),United States,70,20341,150
+822,70,Wenwu Zhu,https://s.research.com/images/b25b985b35014f8965e18931c2ea11360b285ca6-65x65.jpeg,Tsinghua University,China,70,21466,378
+823,32,Weihua Zhuang,https://s.research.com/images/115512412575c3caa4338ddf739355a4848edc2a-65x65.jpeg,University of Waterloo,Canada,70,15534,375
+824,491,Léon Bottou,https://s.research.com/images/2cec3425cd3702527dbc516e796b4e3563547a8b-65x65.jpeg,Facebook (United States),United States,70,144465,146
+825,16,Shai Halevi,https://s.research.com/images/e7337e936ce39ebdd8318f4fc4342ecf28f3884d-65x65.jpeg,Algorand Foundation,Singapore,70,27744,150
+826,493,Rabindranath Dutta,https://research.com/images/placeholder-scholar.svg,IBM (United States),United States,70,13921,183
+827,498,David Silver,https://s.research.com/images/78947101a017acbd214c1997d0598c6c98042eb1-65x65.jpeg,Google (United States),United States,70,88798,147
+828,499,Philip A. Chou,https://research.com/images/placeholder-scholar.svg,Google (United States),United States,70,20161,223
+829,26,Konrad Schindler,https://s.research.com/images/6fd844b4bd917516c4928cc3d2d79cd74882fbd2-65x65.jpeg,ETH Zurich,Switzerland,70,17936,193
+830,497,Cláudio T. Silva,https://s.research.com/images/8c5c8f20487bde152df1fa9e9990b3153389acfa-65x65.jpeg,New York University,United States,70,20401,297
+831,496,Oriol Vinyals,https://s.research.com/images/824bd63e76d832ebece4b7b673e91446d7c5402a-65x65.jpeg,Google (United States),United States,70,83913,142
+832,7,Hans L. Bodlaender,https://s.research.com/images/c5748c6ac8a8e09da9783edfac68779747e35d56-65x65.jpeg,Utrecht University,Netherlands,70,18291,295
+833,495,Paul Reuben Day,https://research.com/images/placeholder-scholar.svg,IBM (United States),United States,70,12697,155
+834,500,Erik D. Demaine,https://s.research.com/images/0638310b6ac68e5f8f6247dd596ffa8af6d6e93e-65x65.jpeg,MIT,United States,70,17564,316
+835,501,Ragunathan Rajkumar,https://s.research.com/images/383269a7a5790b6a9b4f7c78aa422f6e9f58cc57-65x65.jpeg,Carnegie Mellon University,United States,70,23655,216
+836,494,Le Song,https://s.research.com/images/f28a2d90531ced2270f8352a33d616010dddcde5-65x65.jpeg,Georgia Institute of Technology,United States,70,17535,229
+837,503,Mauricio G. C. Resende,https://s.research.com/images/7caa4fe4a9cb594c965d211f111f683958bb4815-65x65.jpeg,University of Washington,United States,70,22939,186
+838,71,Xinbo Gao,https://s.research.com/images/7be55f4df14ed3f0a2e2c0ec84fa5b69e454f963-65x65.jpeg,Chongqing University of Posts and Telecommunications,China,70,18591,604
+839,72,Heng Tao Shen,https://s.research.com/images/137fa1a703801fe3f9622e0ea5f9741f7843b886-65x65.jpeg,University of Electronic Science and Technology of China,China,70,19169,339
+840,7,Thomas Stützle,https://s.research.com/images/c83cd9da556e4a5e6d94598b2f31f960a0abca30-65x65.jpeg,Université Libre de Bruxelles,Belgium,70,59459,268
+841,504,Nikil Dutt,https://s.research.com/images/1c377de72f961ff4ad21fe041b336ed277ae3fe9-65x65.jpeg,University of California,Irvine,70,17692,504
+842,505,David Kotz,https://s.research.com/images/e90ba9777b1424182e99dbd9b2363e79c77d1c77-65x65.jpeg,Dartmouth College,United States,70,22048,252
+843,506,Steven M. Drucker,https://s.research.com/images/5f36327a712bee27172783518449a43d1b70b01e-65x65.jpeg,Microsoft (United States),United States,70,17169,200
+844,507,Michael D. Ernst,https://s.research.com/images/36b73d53b012affc8e972457268673701356e9a2-65x65.jpeg,University of Washington,United States,70,22584,189
+845,508,Yale N. Patt,https://s.research.com/images/809585d34f01e9985c86c7eff6823d51255b0097-65x65.gif,The University of Texas at Austin,United States,70,19319,194
+846,4,Nei Kato,https://s.research.com/images/2cf8723104df03555e58333a6e40243ed938bbab-65x65.jpeg,Tohoku University,Japan,70,17682,403
+847,509,Robert M. Haralick,https://s.research.com/images/94670441f7189041da8f6cc81258dc9009c93c18-65x65.jpeg,City University of New York,United States,70,62062,364
+848,502,Youngdae Lee,https://research.com/images/placeholder-scholar.svg,LG (United States),United States,70,15085,474
+849,517,Ben Y. Zhao,https://s.research.com/images/ece4fe22392ca4297e3323d4a9fa32ff81e37124-65x65.jpeg,University of Chicago,United States,70,32495,202
+850,518,Saman Amarasinghe,https://s.research.com/images/e74ee3a76c507abdf6ab926d41715056cfa97554-65x65.jpeg,MIT,United States,70,23727,196
+851,519,Wang-Chien Lee,https://s.research.com/images/3784d900271d9db57ab4bb7cf3d6032cf2129daf-65x65.jpeg,Pennsylvania State University,United States,70,16366,303
+852,520,V. S. Subrahmanian,https://s.research.com/images/ccf19ef357ee3b86ade89ded98dd5d6072e69b89-65x65.jpeg,Dartmouth College,United States,70,19911,328
+853,510,Deva Ramanan,https://s.research.com/images/6c84b72f085d88493cbb436f997aa850abe1e5ab-65x65.jpeg,Carnegie Mellon University,United States,70,58814,156
+854,521,Kathleen R. McKeown,https://s.research.com/images/5abad571752584c01d9f328d170832bcafd0adcf-65x65.jpeg,Columbia University,United States,70,24164,279
+855,33,Azzedine Boukerche,https://s.research.com/images/09715aacab5a29f5cdedb6b2024a7ce6ac275ebd-65x65.jpeg,University of Ottawa,Canada,70,19641,850
+856,516,Viktor K. Prasanna,https://s.research.com/images/b3b44dd18cf26066b5438db3143ff49573d16042-65x65.jpeg,University of Southern California,United States,70,18971,629
+857,515,Qiang Ji,https://s.research.com/images/659524ea632192db761aff462f313ca7438d0a67-65x65.jpeg,Rensselaer Polytechnic Institute,United States,70,19267,341
+858,73,Changsheng Xu,https://s.research.com/images/a8a5acc92971e69246a8659a23ecb1b97a700e4f-65x65.jpeg,Chinese Academy of Sciences,China,70,18593,393
+859,514,Meikang Qiu,https://s.research.com/images/c57fcf49d8a9b242c46a0b54dec50e65cef14a75-65x65.jpeg,Texas A&M University,United States,70,13544,334
+860,513,Richard Socher,https://s.research.com/images/e3b2e4cdaafe7d83c3219706473e6504e7a4698b-65x65.jpeg,you.com,United States,70,103216,176
+861,13,Michal Irani,https://s.research.com/images/6678aa436aef881ca53e7df26a611e02aa53fccf-65x65.jpeg,Weizmann Institute of Science,Israel,70,30268,115
+862,512,Tsuhan Chen,https://s.research.com/images/17ab9d7b33215cbb5c6e40a0c2956d2222efd70a-65x65.jpeg,Cornell University,United States,70,18572,343
+863,3,Minos Garofalakis,https://s.research.com/images/a78d326a01d86192a55428f36c477e09629d09c3-65x65.jpeg,Technical University of Crete,Greece,70,16761,185
+864,511,M. Frans Kaashoek,https://s.research.com/images/401e82b8d249fdfe5a7be8e4ee09c2b6dd27ed00-65x65.png,MIT,United States,70,50086,143
+865,50,Simon R. Arridge,https://s.research.com/images/a56062afc9220635eec6cc576ec188c8c90e840b-65x65.gif,University College London,United Kingdom,69,20665,337
+866,74,Zhi-Quan Luo,https://s.research.com/images/74baddc89bae335c38e5d357242aaa852d7787fc-65x65.png,Chinese University of Hong Kong,Shenzhen,69,19618,236
+867,523,Steven H. Low,https://s.research.com/images/3d4ad10631e17a769caa4bfaaa9d476775232742-65x65.jpeg,California Institute of Technology,United States,69,31250,216
+868,15,Yang Xiang,https://s.research.com/images/54ba8ec9d0969fd959a4ad030e7e5b878c0d190a-65x65.jpeg,Swinburne University of Technology,Australia,69,16062,461
+869,522,Bernardo A. Huberman,https://s.research.com/images/49d503a50a76260ee669eebe8614a75abb51b4e6-65x65.jpeg,CableLabs,United States,69,41784,198
+870,34,Kerstin Dautenhahn,https://s.research.com/images/fa6b4ffed20443670c25ba9e8b76aa35cfc21797-65x65.jpeg,University of Waterloo,Canada,69,20937,312
+871,27,Dario Floreano,https://s.research.com/images/ae7c32c9fde280b3ee0f48bdf3282628ae7abc6d-65x65.jpeg,École Polytechnique Fédérale de Lausanne,Switzerland,69,24368,279
+872,524,Abigail Sellen,https://s.research.com/images/9d5bd8a069876190f74272f8a4f79f2fc281e37f-65x65.png,Microsoft (United States),United States,69,20151,185
+873,525,Rajiv Gupta,https://s.research.com/images/b2b854d9d37cff81a0b84fb943d896842c7a128a-65x65.jpeg,University of California,Riverside,69,13539,310
+874,30,Manfred Reichert,https://s.research.com/images/890d9372484b0beb24d01b920f0f4180e796993a-65x65.jpeg,University of Ulm,Germany,69,15520,398
+875,75,Ying Wu,https://s.research.com/images/879f09e86f4d0f4a1dec1d193578f7b61f76d6cc-65x65.jpeg,Huazhong University of Science and Technology,China,69,19678,229
+876,526,Pankaj K. Agarwal,https://s.research.com/images/ca0136182a111f776723721d81c70cda8e1cfc81-65x65.jpeg,Duke University,United States,69,17872,316
+877,527,David L. Dill,https://s.research.com/images/51b071d66e1b35621bbba068ceb200dd5b7a6aee-65x65.gif,Stanford University,United States,69,37858,166
+878,528,Jerry L. Prince,https://s.research.com/images/63ec90f1301007497d2ca5f0764882c6678841df-65x65.jpeg,Johns Hopkins University,United States,69,32019,453
+879,3,Patricia Melin,https://s.research.com/images/224759a57418d107a2e420ec64d65f71ef89d5cc-65x65.jpeg,Instituto Tecnológico de Tijuana,Mexico,69,15561,539
+880,14,Ron Kimmel,https://s.research.com/images/b637a27c8115ecddaa72958ad5083198eca567e5-65x65.png,Technion – Israel Institute of Technology,Israel,69,29412,280
+881,8,Bart Baesens,https://s.research.com/images/c359d79e33429313fecbdb15f789d92db69e52e5-65x65.jpeg,KU Leuven,Belgium,69,18032,269
+882,532,Jodi Forlizzi,https://s.research.com/images/92ffe2438bc6ac0fee86d39efb54f023abb36eb1-65x65.jpeg,Carnegie Mellon University,United States,69,19871,176
+883,529,Norman I. Badler,https://s.research.com/images/d8daa95a14051af72a5de7794fc44a5d19a00d56-65x65.jpeg,University of Pennsylvania,United States,69,19053,263
+884,531,Hui Xiong,https://s.research.com/images/2fd1d8fe9a7d9d3540105d1d3a3236a1d1acb272-65x65.jpeg,Rutgers,The State University of New Jersey,69,17590,342
+885,530,Rob Fergus,https://s.research.com/images/3f2c945a9920305937c614c6da0c2faa74ae1e85-65x65.jpeg,New York University,United States,69,100508,115
+886,533,Subhash Suri,https://s.research.com/images/1b1791ebacd0404ac238c926ca71cb2ae74e4b39-65x65.jpeg,University of California,Santa Barbara,69,17047,200
+887,534,Roy Want,https://s.research.com/images/b41572eea0884bcf97022dfe715565e812c54c16-65x65.jpeg,Google (United States),United States,69,34036,176
+888,8,Andrew S. Tanenbaum,https://s.research.com/images/1cc53b0cb2beb9c200fb1b0161d5ff289720a2e0-65x65.jpeg,Vrije Universiteit Amsterdam,Netherlands,69,31728,233
+889,536,John E. Hopcroft,https://s.research.com/images/8d453394b582b8fbb56f7c2f1101d5b7a1671f49-65x65.png,Cornell University,United States,69,68472,154
+890,535,Royce A. Levien,https://s.research.com/images/62867b6209ba1a23f168701e92acef38e4267726-65x65.jpeg,Fortress Invention,United States,69,14804,531
+891,31,Rudi Studer,https://s.research.com/images/d04eb104fbf77cfad957864f05386ca17910c134-65x65.jpeg,Karlsruhe Institute of Technology,Germany,69,29189,207
+892,540,Zhi-Li Zhang,https://s.research.com/images/5ba29e0b79bc494dc68f21c2b2347b6f548d6ca4-65x65.jpeg,University of Minnesota,United States,69,15331,295
+893,539,Daniel P. Huttenlocher,https://s.research.com/images/9bb814ed8c930bcbfc050add878a6a22e1a2a33f-65x65.jpeg,MIT,United States,69,40914,115
+894,538,David S. Johnson,https://s.research.com/images/75ee6813942b9e9ba66bae7da4afc92a9097559c-65x65.jpeg,AT&T (United States),United States,69,103578,119
+895,537,Frank Dellaert,https://s.research.com/images/125d0a08f6dd56a7c312b85ff28f9d87a946e2e6-65x65.jpeg,Georgia Institute of Technology,United States,69,23518,206
+896,543,Samee U. Khan,https://s.research.com/images/b18f15b51e7a6be52a30251deb38253b5798eb0b-65x65.jpeg,Mississippi State University,United States,69,18682,336
+897,542,Ravi Ramamoorthi,https://s.research.com/images/34357357a3539e697c66bf5e7992e7bfad0bd909-65x65.jpeg,University of California,San Diego,69,17121,188
+898,51,Enrico Motta,https://s.research.com/images/d334c31277af20ac3c93c16dedede12f65bcbf55-65x65.jpeg,The Open University,United Kingdom,69,16407,351
+899,17,Guang-Bin Huang,https://s.research.com/images/05b83f163508e9904d20b00c494d3df7fe6e8263-65x65.jpeg,Nanyang Technological University,Singapore,69,52476,188
+900,541,Reid Simmons,https://s.research.com/images/f0031a0a758912b5e7b8d4d682d715953e85a4e5-65x65.jpeg,Carnegie Mellon University,United States,69,17714,226
+901,16,Dong Xu,https://s.research.com/images/43fbdd00d3b3c8f3dc445c206462e1c64e0b4728-65x65.jpeg,University of Sydney,Australia,69,22606,213
+902,18,Xuemin Lin,https://s.research.com/images/2cb024056baf9d44dbc884a8c762ac5069f22e63-65x65.jpeg,UNSW Sydney,Australia,69,17477,370
+903,550,Dragomir R. Radev,https://s.research.com/images/5cf72602d232df17733dc971a64384e44ae4abdd-65x65.jpeg,Yale University,United States,69,23333,218
+904,544,Insup Lee,https://s.research.com/images/6a9d9868ddd3c6a594c0a1d6816cc916b957d900-65x65.jpeg,University of Pennsylvania,United States,69,17070,440
+905,545,Chris Dyer,https://s.research.com/images/934a99d862e2142ac6fb6604ed005720621adcd1-65x65.jpeg,Google (United States),United States,69,33765,179
+906,546,Xuedong Huang,https://s.research.com/images/d055fa5921ff541384d414a297f1829b96874b83-65x65.jpeg,Microsoft (United States),United States,69,22129,176
+907,17,Willy Zwaenepoel,https://s.research.com/images/dd5b59ceaee7482be6e339538a5257f9f16b6cdd-65x65.jpeg,University of Sydney,Australia,69,24230,194
+908,77,Dimitris Papadias,https://s.research.com/images/0ca5a11bf32fdc3fca37c7956554055875d23148-65x65.jpeg,Hong Kong University of Science and Technology,China,69,18965,167
+909,76,Jiwen Lu,https://s.research.com/images/b1b21e0ca70119e156fa883847b860ddcbe1a23a-65x65.jpeg,Tsinghua University,China,69,16202,295
+910,52,Shuihua Wang,https://s.research.com/images/80dba527f87c0f68267a0c6e7bf89f6d1483ac11-65x65.jpeg,University of Leicester,United Kingdom,69,14640,287
+911,33,Peter Druschel,https://s.research.com/images/d2317f727d7ab5590ec1ee6a5b9c81f5e7d76dec-65x65.png,Max Planck Institute for Software Systems,Germany,69,45776,147
+912,32,Thomas Ertl,https://s.research.com/images/02fdfe9eae41ab7d68ada1c8dafb291915b61a9d-65x65.jpeg,University of Stuttgart,Germany,69,16598,490
+913,3,Ming-Syan Chen,https://s.research.com/images/3039e2dd1feff18d18a6d1050f7bec1611d420af-65x65.jpeg,National Taiwan University,Taiwan,69,21865,382
+914,547,Philipp Koehn,https://s.research.com/images/e65b472cac3e51320e640fe735d7e716e1e0899c-65x65.jpeg,Johns Hopkins University,United States,69,40369,246
+915,548,Calton Pu,https://s.research.com/images/955b6ad1c0508176b81f67fadd574cafbdd50b44-65x65.jpeg,Georgia Institute of Technology,United States,69,19351,402
+916,549,Sanjoy Baruah,https://s.research.com/images/2384689414926af1926d3d7b4d6d46d927c6650e-65x65.jpeg,Washington University in St. Louis,United States,69,16101,243
+917,551,Russell H. Taylor,https://s.research.com/images/ff94ecc07854d31733352b389734f65eb2cb2589-65x65.jpeg,Johns Hopkins University,United States,68,20483,355
+918,53,Xiaohui Liu,https://s.research.com/images/0e517e5aa586fb09b5944c6e9b91895ecce15105-65x65.jpeg,Brunel University London,United Kingdom,68,18016,242
+919,9,Jan J. Koenderink,https://s.research.com/images/9bf6da8c2eaf57f3e63c20c6975f976ff86b936f-65x65.jpeg,Delft University of Technology,Netherlands,68,23093,291
+920,54,Geoffrey Ye Li,https://s.research.com/images/b0f67cb086f0c1064a4f7564a82c217606017f8b-65x65.jpeg,Imperial College London,United Kingdom,68,23025,280
+921,554,Neil J. A. Sloane,https://s.research.com/images/f490f71169b2781f16926e8664a712488e00c955-65x65.gif,OEIS Foundation Inc.,United States,68,39553,173
+922,553,Milan Sonka,https://s.research.com/images/16d5f25d5efcd409bd417b2e34e557e6df88734d-65x65.jpeg,University of Iowa,United States,68,29941,325
+923,552,Moeness G. Amin,https://s.research.com/images/cf0f31067371402a3dee0ecfae141c82bff19fbd-65x65.jpeg,Villanova University,United States,68,16137,521
+924,78,Michael K. Ng,https://s.research.com/images/6164cb2ea7aba8f544e7e79b9aa58bb21b43d018-65x65.png,University of Hong Kong,China,68,15442,355
+925,35,Edward K. Y. Jung,https://s.research.com/images/c83c13bc18944efeff5d39fe943d2cd93e627e84-65x65.jpeg,Nortel (Canada),Canada,68,15819,469
+926,55,Luca Cardelli,https://s.research.com/images/01c69debaad4b1fdcbe3706140b13a3f27364f64-65x65.png,University of Oxford,United Kingdom,68,23352,149
+927,556,Paul Lapstun,https://s.research.com/images/421cc8765e3334a878e37b1536bcab6686f41ab8-65x65.jpeg,Google (United States),United States,68,13318,296
+928,555,Shafi Goldwasser,https://s.research.com/images/8a3392ad284aaabae141171034c32400ae010e0f-65x65.jpeg,MIT,United States,68,34869,129
+929,557,Lang Tong,https://s.research.com/images/8952adce31604194e158f9072d492996ab8aabe7-65x65.jpeg,Cornell University,United States,68,23213,345
+930,56,Cecilia Mascolo,https://s.research.com/images/a0d5c9ef7a3fa636d63de2141d2b1a6eaae3f2b5-65x65.jpeg,University of Cambridge,United Kingdom,68,18962,243
+931,558,Stuart K. Card,https://s.research.com/images/7cf8548bb805089c6a8bd18a72187de754d8815a-65x65.gif,Stanford University,United States,68,44645,125
+932,79,Quan-Ke Pan,https://s.research.com/images/803a56be3096b92f08ffb46c1d36541b3d29bc3b-65x65.jpeg,Northeastern University,China,68,13561,230
+933,560,Sherali Zeadally,https://research.com/images/placeholder-scholar.svg,University of Kentucky,United States,68,18885,377
+934,559,Jean-Philippe Vert,https://s.research.com/images/77b104ef2d77e4b7f9267bf3eb2cb7df3ddda130-65x65.jpeg,Google (United States),United States,68,17794,158
+935,19,Zbigniew Michalewicz,https://s.research.com/images/6d3be71eeba55b4ebe3c0f7f626b79de602ef91a-65x65.jpeg,University of Adelaide,Australia,68,58977,194
+936,15,Amnon Shashua,https://s.research.com/images/6494406560228443ca73b71e48d668dac902401f-65x65.png,Hebrew University of Jerusalem,Israel,68,16791,162
+937,57,Michael M. Bronstein,https://s.research.com/images/7fa1b458a2fc8c928446b0cb10320d859606417d-65x65.jpeg,Imperial College London,United Kingdom,68,21916,280
+938,80,Changshui Zhang,https://s.research.com/images/a85709929053319a331ea24e73f76806475f9ebc-65x65.jpeg,Tsinghua University,China,68,18637,364
+939,562,Maurice Herlihy,https://s.research.com/images/6f4b21e26bf8b21ea54fda17f2333cf691679475-65x65.jpeg,Brown University,United States,68,29360,250
+940,563,Kunle Olukotun,https://s.research.com/images/1894a7f848a55e8972787fed47216f21e324368e-65x65.jpeg,Stanford University,United States,68,19508,153
+941,564,Jonathan S. Turner,https://s.research.com/images/7580c6eb9adf1a62e5e8f91ad662c9acf985d3bb-65x65.jpeg,Washington University in St. Louis,United States,68,30374,171
+942,565,Mikhail J. Atallah,https://s.research.com/images/e51dfb063b797ec8c36ebcaaf02c1651dcf58410-65x65.jpeg,Purdue University West Lafayette,United States,68,16052,248
+943,10,Arnold W. M. Smeulders,https://s.research.com/images/a8bd642ded2365c88c3d85feecbd25642ff49fa1-65x65.jpeg,University of Amsterdam,Netherlands,68,40005,305
+944,28,Karl Aberer,https://s.research.com/images/1d7579124c1d0965e66a9eb96faa9eb7b890fc0d-65x65.jpeg,École Polytechnique Fédérale de Lausanne,Switzerland,68,18483,439
+945,561,Laurie Williams,https://s.research.com/images/de55b48c3b40927befe6c9f27d543e28784fe680-65x65.jpeg,North Carolina State University,United States,68,16747,290
+946,566,Baining Guo,https://s.research.com/images/16bd748f1787f06452ac5e36a245d588bc768261-65x65.jpeg,Microsoft (United States),United States,68,14769,200
+947,81,Zongben Xu,https://s.research.com/images/ed6fdbcc0e88d657e4e85de536735a58c171f860-65x65.jpeg,Xi'an Jiaotong University,China,68,15190,272
+948,82,Hong Yan,https://s.research.com/images/c2c96b0dbb6a3fa197571b45e08bb84306aa9424-65x65.jpeg,City University of Hong Kong,China,68,15041,526
+949,573,Edward W. Knightly,https://s.research.com/images/0c3021512910034ba9d14c0043b2dae7b85314ab-65x65.jpeg,Rice University,United States,68,16915,166
+950,83,Jean-Philippe Vasseur,https://s.research.com/images/a78ae3b87399b190d03ca1ceeeea809b85e8c17a-65x65.gif,Cisco Systems (China),China,68,15583,385
+951,572,Yun Q. Shi,https://s.research.com/images/e95f8004c460f9a0d03e534ac9cf5f97bc71c063-65x65.jpeg,New Jersey Institute of Technology,United States,68,15771,291
+952,571,Lise Getoor,https://s.research.com/images/c35069f9777492839898e46ac6d0a0ae3a548e54-65x65.jpeg,University of California,Santa Cruz,68,22115,250
+953,570,James Allan,https://s.research.com/images/95b11cdcb3f7abab949859080e8a5c73535bc165-65x65.jpeg,University of Massachusetts Amherst,United States,68,20205,254
+954,569,Avideh Zakhor,https://s.research.com/images/b949b22103d3db692d2fff91c6606d2d7cf53e67-65x65.jpeg,University of California,Berkeley,68,14967,237
+955,2,Jan Bosch,https://s.research.com/images/c7c965ebfe93cae63a448aba7b44b5264427e199-65x65.jpeg,Chalmers University of Technology,Sweden,68,20595,328
+956,36,Krzysztof Czarnecki,https://s.research.com/images/0ea5622bd3cb0a36109d32c6fe4d0ec2d35062b6-65x65.jpeg,University of Waterloo,Canada,68,28587,212
+957,29,Daniel Gatica-Perez,https://s.research.com/images/39aaea44e95f4fd7e0ed6118e4266bb6f1a4dec4-65x65.jpeg,Idiap Research Institute,Switzerland,68,15295,253
+958,568,Catherine Plaisant,https://s.research.com/images/a67d97075eea93205aa9108ed683712b39492c69-65x65.jpeg,University of Maryland,College Park,68,17134,213
+959,567,Venkata N. Padmanabhan,https://s.research.com/images/b2a8d75cae129aaa643b7ca625fb63d3b66a4f01-65x65.jpeg,Microsoft (United States),United States,68,41079,147
+960,574,George Fitzmaurice,https://research.com/images/placeholder-scholar.svg,Autodesk (United States),United States,68,13548,197
+961,34,Bastian Leibe,https://s.research.com/images/315725fa263ae37def00b0654bb706f6963de1f3-65x65.jpeg,RWTH Aachen University,Germany,68,25680,184
+962,579,Dhabaleswar K. Panda,https://s.research.com/images/e42962516fc03692f5129331ae23edd58248552c-65x65.jpeg,The Ohio State University,United States,68,15152,464
+963,37,Margo Seltzer,https://s.research.com/images/139b8212180c0002032aae3a46636d4abb2be3ad-65x65.png,University of British Columbia,Canada,68,15177,183
+964,578,Anoop Gupta,https://s.research.com/images/bb34d2804e297be38f57b844b4b964cae71d7c93-65x65.jpeg,SeekOut,United States,68,17495,140
+965,580,Michael T. Goodrich,https://s.research.com/images/1ffd2098f254a84c3e365ba3b4aabf12fcefb9aa-65x65.jpeg,University of California,Irvine,68,14253,282
+966,581,Sylvia Ratnasamy,https://s.research.com/images/6724a599a467c27f7dbac34e5e5c9137e9620d98-65x65.png,University of California,Berkeley,68,34828,109
+967,6,Takeo Igarashi,https://s.research.com/images/b759a3af545b8f5f8d4cb4e1f92d1c32e97cc11c-65x65.jpeg,University of Tokyo,Japan,68,16231,311
+968,582,Andrei Z. Broder,https://s.research.com/images/b08928808f5fe04f2663c7aebd8c249f4abc1d07-65x65.gif,Google (United States),United States,68,34317,192
+969,10,Luc De Raedt,https://s.research.com/images/f90e5d8db435ef48df91fa4ce8ed4cc02de43566-65x65.jpeg,KU Leuven,Belgium,68,19548,327
+970,575,Armando Fox,https://s.research.com/images/d65f18447632f6644563b12bfbb7cc5d34661191-65x65.jpeg,University of California,Berkeley,68,40612,172
+971,2,Josef Sivic,https://s.research.com/images/d28e21f3506ff5de59bf2fdc71f93a79af19c310-65x65.jpeg,Czech Technical University in Prague,Czech Republic,68,32141,124
+972,18,Hugo Krawczyk,https://s.research.com/images/5d5e7ff0c597012e83790ed391e352a11f22b8ee-65x65.png,Algorand Foundation,Singapore,68,30307,116
+973,84,Jiannong Cao,https://s.research.com/images/fa83a17871fb5395c5271a396fa1d4a8369a2299-65x65.jpeg,Hong Kong Polytechnic University,China,68,17433,748
+974,20,Wanli Ouyang,https://s.research.com/images/b15d23930059c098ba34b77a2dab62a53f8baf99-65x65.jpeg,University of Sydney,Australia,68,22375,203
+975,9,Tinne Tuytelaars,https://s.research.com/images/19feee4bb24ecda710f6d0101d3b19861783aa70-65x65.jpeg,KU Leuven,Belgium,68,58679,265
+976,583,Markus Jakobsson,https://s.research.com/images/d6c9cac7ce7ebb2f619d85efdaa40904181fa996-65x65.jpeg,ZapFraud,United States,68,18014,164
+977,5,Jun'ichi Tsujii,https://s.research.com/images/14d6b52d40a44ee17d4d75cff27ea9b53302c6e1-65x65.jpeg,National Institute of Advanced Industrial Science and Technology,Japan,68,19787,369
+978,87,Zhen Lei,https://s.research.com/images/e6c0038e6326e9b741663f668996a1185e80f213-65x65.jpeg,Chinese Academy of Sciences,China,68,19247,229
+979,86,Yufei Tao,https://s.research.com/images/6329d59788a1dea394ec1024bea73f243181bc68-65x65.jpeg,Chinese University of Hong Kong,China,68,19996,159
+980,4,Yu-Chee Tseng,https://s.research.com/images/451da6a1d8f474385b2506861d04c10d43581161-65x65.jpeg,National Yang Ming Chiao Tung University,Taiwan,68,32070,336
+981,576,Kate Saenko,https://s.research.com/images/1b011bc9feee478452b8edbda917e120a3b4d953-65x65.png,Boston University,United States,68,34540,178
+982,85,Yong Xu,https://s.research.com/images/c1285431c75a723a7fe921b98508e2ed83897b52-65x65.jpeg,Harbin Institute of Technology,China,68,14929,285
+983,577,Roberto Tamassia,https://s.research.com/images/257aa1ecac8ef0f15893108a4bf8cf35a7093abe-65x65.jpeg,Brown University,United States,68,21897,259
+984,11,Bart De Moor,https://s.research.com/images/ba801bcf043697858af104403703ef5e01abbe3e-65x65.png,KU Leuven,Belgium,67,32698,311
+985,88,Bo Li,https://s.research.com/images/4160a363930f85e017a1c8509538e1db61156a09-65x65.jpeg,Fudan University,China,67,18263,399
+986,584,Tuomas Sandholm,https://s.research.com/images/6cbda2ea07dcff872d9f41cc40f56ef45fc22469-65x65.jpeg,Carnegie Mellon University,United States,67,17032,187
+987,38,Simon Haykin,https://s.research.com/images/14ee84c9b9e2597627969c43e6f846950d802e0a-65x65.jpeg,McMaster University,Canada,67,65668,260
+988,585,Kenneth R. Koedinger,https://s.research.com/images/9e8c703194c38188adc2998d9317116d0f3db046-65x65.jpeg,Carnegie Mellon University,United States,67,20282,258
+989,89,Kwok-wing Chau,https://s.research.com/images/f05bad7170d1debabb7c08d39e43ec8b557670c7-65x65.png,Hong Kong Polytechnic University,China,67,16329,165
+990,90,Guang-Zhong Yang,https://s.research.com/images/0d4ee41fee1d8f52b07b7b540801f6e602621141-65x65.png,Shanghai Jiao Tong University,China,67,19633,573
+991,586,George Hripcsak,https://s.research.com/images/68fad8fa47f22560af6486524f9795d9b5a672aa-65x65.jpeg,Columbia University,United States,67,15798,227
+992,588,Xiaodong Zhang,https://s.research.com/images/bf7764f6505f6bb99c95aa5d081bd6d5626d63d1-65x65.jpeg,The University of Texas MD Anderson Cancer Center,United States,67,15109,213
+993,587,Albert Cohen,https://s.research.com/images/d7fd9f2d6d7c5c28b5146bff3164132bc2d47ae2-65x65.jpeg,Google (United States),United States,67,19112,231
+994,589,Yao Wang,https://s.research.com/images/93bd2409113776d2c9a8e8e746243568c79a24a0-65x65.jpeg,New York University,United States,67,19126,354
+995,590,Filippo Menczer,https://s.research.com/images/53c67f7ec7a34e92c49a1bcdfa3f5dbe8a4c49df-65x65.png,Indiana University,United States,67,25084,187
+996,592,Jayaram K. Udupa,https://s.research.com/images/7aea05d4628cc1763598108d6489c92b921b8b68-65x65.jpeg,University of Pennsylvania,United States,67,18391,325
+997,591,Xiang-Gen Xia,https://s.research.com/images/41b61d1d8d568c65fe968f65f7c786a65b43f340-65x65.png,University of Delaware,United States,67,17285,462
+998,593,Julia Hirschberg,https://s.research.com/images/4bc88ad0be9b7b95f2f8ef091024fb0343944f3a-65x65.png,Columbia University,United States,67,14866,208
+999,35,Leif Kobbelt,https://s.research.com/images/540ad1eea7b08b056116866aa77e9b141adf1ba0-65x65.jpeg,RWTH Aachen University,Germany,67,18462,219
+1000,91,Kwang-Ting Cheng,https://s.research.com/images/9f87b14e531b73b59cf4cf5632711f4850152b20-65x65.jpeg,Hong Kong University of Science and Technology,China,67,16057,347
