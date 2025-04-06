@@ -34,7 +34,7 @@ def main():
     scholar_data = []
     
     print("Starting web scraping...")
-    for page_id in range(1, 2):
+    for page_id in range(1, 11):
         service = Service(executable_path=webdriver_path)
         driver = webdriver.Chrome(service=service)
         page_url = f"https://research.com/scientists-rankings/computer-science?page={page_id}"
