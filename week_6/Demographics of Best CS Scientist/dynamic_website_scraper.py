@@ -34,7 +34,7 @@ def get_scholar_details(row):
         return None
 
 def main():
-    webdriver_path = parser.chromedriver_path
+    webdriver_path = args.chromedriver_path
     scholar_data = []
     
     print("Starting web scraping...")
