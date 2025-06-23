@@ -3,7 +3,7 @@
 # Demographics of Best CS Scientist
 
 ## Problem Statement
-This project aims to gather information on the best 1000 Computer Science researchers from <a href="https://research.com/scientists-rankings/best-scientists" target="_blank">this website</a>.</br>
+This project aims to gather information on the best 1000 Computer Science researchers from [this website](https://research.com/scientists-rankings/best-scientists)</br>
 Later, we utilized the scraped data to understand the following demographics and correlations using Tableau</br>Dashboard:
 
 1. A bar chart of countries with average publications.
@@ -11,9 +11,9 @@ Later, we utilized the scraped data to understand the following demographics and
 3. Which Middle Eastern universities are good at research? (using citations as metric)
 4. Which column is directly correlated with the  World Rank column? We wanted to understand how the ranking was done.
 
-You can visit the public dashboard <a href="https://public.tableau.com/app/profile/sheikh.rasel.ahmed/viz/DemographicsofBestCSScientist_17501649413280/Dashboard1" target="_blank">here</a>.
+You can visit the public dashboard [here](https://public.tableau.com/app/profile/sheikh.rasel.ahmed/viz/DemographicsofBestCSScientist_17501649413280/Dashboard1).
 
-## Findings and Observations from the <a href="https://public.tableau.com/app/profile/sheikh.rasel.ahmed/viz/DemographicsofBestCSScientist_17501649413280/Dashboard1" target="_blank">Dashboard</a>.
+## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/sheikh.rasel.ahmed/viz/DemographicsofBestCSScientist_17501649413280/Dashboard1)
 1. Brazilian scientists have the highest average publications.
 2. Researchers from King Abdullah University of Science and Technology (KAUST), Saudi Arabia, have the highest number of average citations.
 3. Among European countries, the United Kingdom (UK) has the highest number of scientists among the top 1000.
