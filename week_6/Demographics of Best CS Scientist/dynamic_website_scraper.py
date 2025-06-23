@@ -3,6 +3,10 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import pandas as pd
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument('--chromedriver_path', type=str, help= "check where the chromedriver is in your pc and share the path", default=1)
+args = parser.parse_args()
 
 columns = ["World Rank", "National Rank", "Name", "Image URLs", "Affiliation", "Country", "H-Index", "Citations", "#DBLP"]
 
@@ -30,7 +34,7 @@ def get_scholar_details(row):
         return None
 
 def main():
-    webdriver_path = "C:/Program Files (x86)/chromedriver.exe"
+    webdriver_path = parser.chromedriver_path
     scholar_data = []
     
     print("Starting web scraping...")
