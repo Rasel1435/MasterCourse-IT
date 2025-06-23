@@ -3,8 +3,8 @@
 # Demographics of Best CS Scientist
 
 ## Problem Statement
-This project aims to gather information on the best 1000 Computer Science researchers from <a href="https://research.com/scientists-rankings/best-scientists" target="_blank">this website</a>.
-Later, we utilized the scraped data to understand the following demographics and correlations using Tableau Dashboard:
+This project aims to gather information on the best 1000 Computer Science researchers from <a href="https://research.com/scientists-rankings/best-scientists" target="_blank">this website</a>.</br>
+Later, we utilized the scraped data to understand the following demographics and correlations using Tableau</br>Dashboard:
 
 1. A bar chart of countries with average publications.
 2. European countries with the number of scientists in a map (excluding Russia)
@@ -14,10 +14,10 @@ Later, we utilized the scraped data to understand the following demographics and
 You can visit the public dashboard <a href="https://public.tableau.com/app/profile/sheikh.rasel.ahmed/viz/DemographicsofBestCSScientist_17501649413280/Dashboard1" target="_blank">here</a>.
 
 ## Findings and Observations from the <a href="https://public.tableau.com/app/profile/sheikh.rasel.ahmed/viz/DemographicsofBestCSScientist_17501649413280/Dashboard1" target="_blank">Dashboard</a>.
-Brazilian scientists have the highest average publications.
-Researchers from King Abdullah University of Science and Technology (KAUST), Saudi Arabia, have the highest number of average citations.
-Among European countries, the United Kingdom (UK) has the highest number of scientists among the top 1000.
-The ranking was most probably done using H-Index.
+1. Brazilian scientists have the highest average publications.
+2. Researchers from King Abdullah University of Science and Technology (KAUST), Saudi Arabia, have the highest number of average citations.
+3. Among European countries, the United Kingdom (UK) has the highest number of scientists among the top 1000.
+4. The ranking was most probably done using H-Index.
 
 ## Build From Sources and Run the Selenium Scraper
 1. Clone the repo
